@@ -1,0 +1,10 @@
+*.wav
+*.m4a
+*.mp3
+*.aiff
+data/textgrids/mfa/
+__pycache__/
+*.pyc
+.pytest_cache/
+mfa_temp/
+.DS_Store

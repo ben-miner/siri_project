@@ -1,0 +1,8 @@
+parselmouth-praat
+faster-whisper
+pandas
+numpy
+statsmodels
+matplotlib
+pyyaml
+pytest
