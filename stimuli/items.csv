@@ -1,0 +1,101 @@
+item_id,item_type,text
+C001,command,Set a timer for twelve minutes.
+C002,command,Text Marcus that I'm running late.
+C003,command,What's the weather in Newton tomorrow?
+C004,command,Play the new Noah Kahan album.
+C005,command,Remind me to email my advisor on Monday.
+C006,command,How long is the flight to Tokyo?
+C007,command,Add oat milk to my grocery list.
+C008,command,Call the gelato shop on Orchard Street.
+C009,command,Turn off the bedroom lights.
+C010,command,What time does the library close today?
+C011,command,Navigate to Grand Central Terminal.
+C012,command,Send a photo to the choir group chat.
+C013,command,Show me my calendar for next Thursday.
+C014,command,Convert eighty degrees Fahrenheit to Celsius.
+C015,command,Skip to the next song.
+C016,command,What's the score of the Mets game?
+C017,command,Set an alarm for six forty-five.
+C018,command,Find a ramen place open past midnight.
+C019,command,Read my last message from Anjali.
+C020,command,How do you say thank you in Japanese?
+C021,command,Start a workout on my watch.
+C022,command,Cancel my reminder about the dentist.
+C023,command,Take a note about the pitch analysis.
+C024,command,What is twenty percent of forty-three dollars?
+C025,command,Turn the volume down a little.
+C026,command,Open the Praat documentation in Safari.
+C027,command,Schedule a meeting for Friday afternoon.
+C028,command,Is it going to rain this evening?
+C029,command,Play something quiet while I study.
+C030,command,Delete the last voice memo.
+C031,command,What's the fastest way to Morningside Heights?
+C032,command,Add a wisteria trellis to my shopping list.
+C033,command,Tell me a joke about linguists.
+C034,command,Show me photos from Cape Cod.
+C035,command,How many days until September first?
+C036,command,Turn on do not disturb until noon.
+C037,command,Where is the nearest pharmacy?
+C038,command,Email the lab about the annotation deadline.
+C039,command,What's on my agenda this morning?
+C040,command,Play white noise for thirty minutes.
+D001,declarative,The old bridge groaned under the weight of the truck.
+D002,declarative,She poured the vinegar into a shallow glass dish.
+D003,declarative,Seven zebras wandered across the dusty road.
+D004,declarative,My grandmother kept her thimbles in a wooden box.
+D005,declarative,The judge asked for silence in the crowded room.
+D006,declarative,Thick fog settled over the harbor before dawn.
+D007,declarative,He measured the flour twice and still got it wrong.
+D008,declarative,Purple thistles grew along the railway embankment.
+D009,declarative,The choir rehearsed the same passage eleven times.
+D010,declarative,A single moth circled the porch light all evening.
+D011,declarative,They shipped the equipment in reinforced crates.
+D012,declarative,The tide pulled the small boat toward the rocks.
+D013,declarative,Cinnamon and cloves filled the kitchen with warmth.
+D014,declarative,Nobody remembered who had locked the back door.
+D015,declarative,The librarian stamped each card with quiet precision.
+D016,declarative,Wet leaves clogged the gutter above the window.
+D017,declarative,I bought a secondhand bicycle for forty dollars.
+D018,declarative,The mountain village looked empty in the photograph.
+D019,declarative,Three sparrows fought over a crust of bread.
+D020,declarative,His youngest brother plays trumpet in the marching band.
+D021,declarative,"The recipe called for saffron, which we could not find."
+D022,declarative,Snow buried the fence posts by early January.
+D023,declarative,She wrote the whole essay on a borrowed laptop.
+D024,declarative,The engine coughed once and then went silent.
+D025,declarative,Amber light spilled across the polished floorboards.
+D026,declarative,We watched the storm move east across the valley.
+D027,declarative,The tailor pinned the hem with practiced fingers.
+D028,declarative,Salt crusted the windows of the beach house.
+D029,declarative,Their apartment smelled faintly of turpentine.
+D030,declarative,A heron stood motionless at the edge of the pond.
+D031,declarative,The clock in the hallway runs about four minutes fast.
+D032,declarative,He folded the newspaper and set it on the table.
+D033,declarative,Bright green algae covered the surface of the water.
+D034,declarative,The children traded stickers during the long bus ride.
+D035,declarative,Rain hammered the tin roof for most of the night.
+F001,final_fall,"I don't really know what she was thinking, honestly."
+F002,final_fall,"We ended up walking the whole way home, anyway."
+F003,final_fall,It was one of those afternoons where nothing happened at all.
+F004,final_fall,"He said he'd call back, but he never really did."
+F005,final_fall,"The whole thing fell apart before anyone noticed, apparently."
+F006,final_fall,I guess that's just how it goes sometimes.
+F007,final_fall,She left the party early and nobody said anything.
+F008,final_fall,"It's not that I mind, it's just kind of strange."
+F009,final_fall,They moved out to Oregon a couple of years ago.
+F010,final_fall,"Nothing about that story adds up, if you think about it."
+F011,final_fall,I'd been meaning to write back for a while now.
+F012,final_fall,We sat there in the car for maybe twenty minutes.
+F013,final_fall,He's been doing that same job for eleven years.
+F014,final_fall,It rained the entire week we were on the island.
+F015,final_fall,"I never learned how to swim, which is embarrassing."
+F016,final_fall,That's pretty much all anyone talked about afterward.
+F017,final_fall,She kept apologizing even though it wasn't her fault.
+F018,final_fall,"The apartment was smaller than we expected, obviously."
+F019,final_fall,I think I left my keys somewhere in the stairwell.
+F020,final_fall,"It turned out fine, more or less, in the end."
+F021,final_fall,Nobody warned us about the traffic on the way in.
+F022,final_fall,He mentioned it once and then never brought it up again.
+F023,final_fall,We were both too tired to argue about it anymore.
+F024,final_fall,I've been putting that conversation off for months.
+F025,final_fall,It felt like the longest week of the entire summer.
