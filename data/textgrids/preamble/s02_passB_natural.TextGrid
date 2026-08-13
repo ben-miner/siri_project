@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 296.04133333333334 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "metadata" 
+        xmin = 0 
+        xmax = 296.04133333333334 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42027863777089774 
+            text = "" 
+        intervals [2]:
+            xmin = 0.42027863777089774 
+            xmax = 5.423969992855442 
+            text = "roomtone" 
+        intervals [3]:
+            xmin = 5.423969992855442 
+            xmax = 6.424712372971688 
+            text = "" 
+        intervals [4]:
+            xmin = 6.424712372971688 
+            xmax = 10.477864562611188 
+            text = "sustained_a" 
+        intervals [5]:
+            xmin = 10.477864562611188 
+            xmax = 11.600391841897965 
+            text = "" 
+        intervals [6]:
+            xmin = 11.600391841897965 
+            xmax = 14.704292775227843 
+            text = "glide" 
+        intervals [7]:
+            xmin = 14.704292775227843 
+            xmax = 16.591768070212794 
+            text = "" 
+        intervals [8]:
+            xmin = 16.591768070212794 
+            xmax = 21.684576397715215 
+            text = "creak_cal" 
+        intervals [9]:
+            xmin = 21.684576397715215 
+            xmax = 22.472234723830063 
+            text = "" 
+        intervals [10]:
+            xmin = 22.472234723830063 
+            xmax = 25.184381170428985 
+            text = "carrier" 
+        intervals [11]:
+            xmin = 25.184381170428985 
+            xmax = 296.04133333333334 
+            text = "" 
