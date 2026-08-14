@@ -1,0 +1,16 @@
+filename,relative_path,codec_name,sample_rate,bit_depth,channels,duration_sec,bit_rate,size_bytes
+pass_a.m4a,originals_m4a/pass_a.m4a,aac,48000,,2,298.218667,130839,5012331
+pass_b.m4a,originals_m4a/pass_b.m4a,aac,48000,,2,296.085333,131028,4983468
+pass_c.m4a,originals_m4a/pass_c.m4a,aac,48000,,2,341.482667,131172,5753400
+pass_a.m4a,originals_m4a/s01/pass_a.m4a,aac,48000,,2,339.861333,130542,5699303
+pass_b.m4a,originals_m4a/s01/pass_b.m4a,aac,48000,,2,309.653333,130629,5196262
+pass_c.m4a,originals_m4a/s01/pass_c.m4a,aac,48000,,2,343.189333,131001,5774809
+pass_a.m4a,originals_m4a/s02/pass_a.m4a,aac,48000,,2,298.218667,130839,5012331
+pass_b.m4a,originals_m4a/s02/pass_b.m4a,aac,48000,,2,296.085333,131028,4983468
+pass_c.m4a,originals_m4a/s02/pass_c.m4a,aac,48000,,2,341.482667,131172,5753400
+s01_passA_modal.wav,s01_passA_modal.wav,pcm_s16le,48000,16,2,339.817333,1536000,65245006
+s01_passB_natural.wav,s01_passB_natural.wav,pcm_s16le,48000,16,2,309.609333,1536000,59445070
+s01_passC_creak.wav,s01_passC_creak.wav,pcm_s16le,48000,16,2,343.145333,1536000,65883982
+s02_passA_modal.wav,s02_passA_modal.wav,pcm_s16le,48000,16,2,298.174667,1536000,57249614
+s02_passB_natural.wav,s02_passB_natural.wav,pcm_s16le,48000,16,2,296.041333,1536000,56840014
+s02_passC_creak.wav,s02_passC_creak.wav,pcm_s16le,48000,16,2,341.438667,1536000,65556302
