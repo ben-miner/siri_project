@@ -1,6 +1,7 @@
 parselmouth-praat
 faster-whisper
 pandas
+openpyxl
 numpy
 statsmodels
 matplotlib

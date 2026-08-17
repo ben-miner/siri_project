@@ -2,6 +2,8 @@
 *.m4a
 *.mp3
 *.aiff
+*.xlsx
+~$*.xlsx
 data/textgrids/mfa/
 __pycache__/
 *.pyc
