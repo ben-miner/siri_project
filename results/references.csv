@@ -1,0 +1,601 @@
+utt_id,script_text,verbatim_text,was_corrected
+s01_A_modal_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s01_A_modal_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s01_A_modal_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False
+s01_A_modal_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s01_A_modal_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s01_A_modal_D034,The children traded stickers during the long bus ride.,The children traded sticks during the long bus ride.,True
+s01_A_modal_D021,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False
+s01_A_modal_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s01_A_modal_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s01_A_modal_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True
+s01_A_modal_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s01_A_modal_D032,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False
+s01_A_modal_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s01_A_modal_C038,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False
+s01_A_modal_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s01_A_modal_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s01_A_modal_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False
+s01_A_modal_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s01_A_modal_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s01_A_modal_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s01_A_modal_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s01_A_modal_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s01_A_modal_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s01_A_modal_F004,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False
+s01_A_modal_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s01_A_modal_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s01_A_modal_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s01_A_modal_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False
+s01_A_modal_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s01_A_modal_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s01_A_modal_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s01_A_modal_D007,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False
+s01_A_modal_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
+s01_A_modal_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s01_A_modal_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s01_A_modal_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s01_A_modal_C015,Skip to the next song.,Skip to the next song.,False
+s01_A_modal_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s01_A_modal_C012,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False
+s01_A_modal_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s01_A_modal_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True
+s01_A_modal_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s01_A_modal_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s01_A_modal_D026,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False
+s01_A_modal_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s01_A_modal_F025,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False
+s01_A_modal_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s01_A_modal_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s01_A_modal_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s01_A_modal_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s01_A_modal_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s01_A_modal_C013,Show me my calendar for next Thursday.,Show me a calendar for next Thursday.,True
+s01_A_modal_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s01_A_modal_C035,How many days until September first?,How many days until September?,True
+s01_A_modal_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s01_A_modal_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s01_A_modal_D023,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False
+s01_A_modal_C039,What's on my agenda this morning?,What is my agenda this morning?,True
+s01_A_modal_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s01_A_modal_C034,Show me photos from Cape Cod.,Show me photos of Cape Caw.,True
+s01_A_modal_C037,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False
+s01_A_modal_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s01_A_modal_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s01_A_modal_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s01_A_modal_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s01_A_modal_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s01_A_modal_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s01_A_modal_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s01_A_modal_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s01_A_modal_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s01_A_modal_C028,Is it going to rain this evening?,Is it going to rain this evening?,False
+s01_A_modal_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s01_A_modal_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s01_A_modal_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s01_A_modal_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s01_A_modal_C030,Delete the last voice memo.,Delete the last voice memo.,False
+s01_A_modal_C010,What time does the library close today?,What time does the library close today?,False
+s01_A_modal_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s01_A_modal_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s01_A_modal_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s01_A_modal_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s01_A_modal_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False
+s01_A_modal_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s01_A_modal_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s01_A_modal_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s01_A_modal_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s01_A_modal_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True
+s01_A_modal_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s01_A_modal_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s01_A_modal_F001,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False
+s01_A_modal_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s01_A_modal_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s01_A_modal_D027,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False
+s01_A_modal_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s01_A_modal_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s01_A_modal_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s01_A_modal_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s01_A_modal_C007,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False
+s01_A_modal_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s01_A_modal_F012,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minute.,True
+s01_B_natural_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s01_B_natural_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s01_B_natural_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s01_B_natural_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s01_B_natural_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True
+s01_B_natural_D027,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False
+s01_B_natural_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s01_B_natural_C038,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False
+s01_B_natural_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True
+s01_B_natural_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s01_B_natural_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s01_B_natural_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s01_B_natural_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s01_B_natural_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s01_B_natural_D021,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False
+s01_B_natural_C010,What time does the library close today?,What time does the library close today?,False
+s01_B_natural_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s01_B_natural_C028,Is it going to rain this evening?,Is it going to rain this evening?,False
+s01_B_natural_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s01_B_natural_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s01_B_natural_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s01_B_natural_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s01_B_natural_F012,We sat there in the car for maybe twenty minutes.,We sat there in the car for maybe twenty minutes.,False
+s01_B_natural_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False
+s01_B_natural_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s01_B_natural_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s01_B_natural_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s01_B_natural_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s01_B_natural_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s01_B_natural_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s01_B_natural_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s01_B_natural_D023,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False
+s01_B_natural_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s01_B_natural_C013,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False
+s01_B_natural_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s01_B_natural_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s01_B_natural_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s01_B_natural_C037,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False
+s01_B_natural_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s01_B_natural_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s01_B_natural_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s01_B_natural_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s01_B_natural_F004,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False
+s01_B_natural_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s01_B_natural_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s01_B_natural_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s01_B_natural_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s01_B_natural_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s01_B_natural_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False
+s01_B_natural_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s01_B_natural_F001,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False
+s01_B_natural_C035,How many days until September first?,How many days until September first?,False
+s01_B_natural_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s01_B_natural_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s01_B_natural_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s01_B_natural_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s01_B_natural_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s01_B_natural_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s01_B_natural_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
+s01_B_natural_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s01_B_natural_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False
+s01_B_natural_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s01_B_natural_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s01_B_natural_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s01_B_natural_C015,Skip to the next song.,Skip to the next song.,False
+s01_B_natural_C030,Delete the last voice memo.,Delete the last voice memo.,False
+s01_B_natural_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s01_B_natural_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s01_B_natural_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s01_B_natural_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s01_B_natural_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s01_B_natural_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s01_B_natural_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s01_B_natural_D007,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False
+s01_B_natural_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s01_B_natural_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s01_B_natural_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s01_B_natural_D026,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False
+s01_B_natural_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True
+s01_B_natural_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s01_B_natural_D032,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False
+s01_B_natural_C039,What's on my agenda this morning?,What's on my agenda this morning?,False
+s01_B_natural_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s01_B_natural_F025,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False
+s01_B_natural_D034,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False
+s01_B_natural_C034,Show me photos from Cape Cod.,Show me photos of Cape Caw.,True
+s01_B_natural_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless on the edge of the pond.,True
+s01_B_natural_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s01_B_natural_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s01_B_natural_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s01_B_natural_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s01_B_natural_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s01_B_natural_C012,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False
+s01_B_natural_C007,Add oat milk to my grocery list.,Add oatmilk to.,True
+s01_B_natural_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s01_B_natural_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s01_B_natural_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s01_B_natural_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s01_B_natural_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s01_B_natural_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s01_C_creak_D021,"The recipe called for saffron, which we could not find.","The recipe calls for saffron, which we could not find.",True
+s01_C_creak_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s01_C_creak_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s01_C_creak_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s01_C_creak_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s01_C_creak_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s01_C_creak_C007,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False
+s01_C_creak_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s01_C_creak_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back doors.,True
+s01_C_creak_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s01_C_creak_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s01_C_creak_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s01_C_creak_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s01_C_creak_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s01_C_creak_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s01_C_creak_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s01_C_creak_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple of years ago.,False
+s01_C_creak_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s01_C_creak_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s01_C_creak_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happens at all.,True
+s01_C_creak_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s01_C_creak_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s01_C_creak_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s01_C_creak_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s01_C_creak_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s01_C_creak_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s01_C_creak_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s01_C_creak_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s01_C_creak_C010,What time does the library close today?,What time does the library close today?,False
+s01_C_creak_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s01_C_creak_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s01_C_creak_D007,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False
+s01_C_creak_C015,Skip to the next song.,Skip to the next song.,False
+s01_C_creak_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s01_C_creak_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True
+s01_C_creak_C030,Delete the last voice memo.,Delete the last voice memo.,False
+s01_C_creak_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s01_C_creak_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s01_C_creak_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album,True
+s01_C_creak_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s01_C_creak_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s01_C_creak_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s01_C_creak_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s01_C_creak_C039,What's on my agenda this morning?,What's on my agenda this morning?,False
+s01_C_creak_D023,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False
+s01_C_creak_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s01_C_creak_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s01_C_creak_D027,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False
+s01_C_creak_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s01_C_creak_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now,True
+s01_C_creak_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s01_C_creak_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s01_C_creak_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s01_C_creak_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s01_C_creak_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s01_C_creak_C035,How many days until September first?,How many days until September first?,False
+s01_C_creak_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s01_C_creak_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s01_C_creak_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s01_C_creak_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s01_C_creak_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s01_C_creak_F025,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False
+s01_C_creak_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s01_C_creak_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s01_C_creak_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s01_C_creak_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s01_C_creak_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s01_C_creak_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s01_C_creak_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s01_C_creak_F001,"I don't really know what she was thinking, honestly.","I don't know what she was thinking, honest.",True
+s01_C_creak_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False
+s01_C_creak_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s01_C_creak_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s01_C_creak_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s01_C_creak_C034,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False
+s01_C_creak_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s01_C_creak_F012,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True
+s01_C_creak_D026,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False
+s01_C_creak_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s01_C_creak_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s01_C_creak_C012,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False
+s01_C_creak_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s01_C_creak_C013,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False
+s01_C_creak_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s01_C_creak_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s01_C_creak_F004,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False
+s01_C_creak_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s01_C_creak_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s01_C_creak_C038,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False
+s01_C_creak_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s01_C_creak_C037,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False
+s01_C_creak_D034,The children traded stickers during the long bus ride.,The children traded stickers during the long bus.,True
+s01_C_creak_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s01_C_creak_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s01_C_creak_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s01_C_creak_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s01_C_creak_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s01_C_creak_C028,Is it going to rain this evening?,Is it going to rain this evening?,False
+s01_C_creak_D032,He folded the newspaper and set it on the table.,He folded the newspapers and set it on the tape.,True
+s01_C_creak_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
+s02_A_modal_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s02_A_modal_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s02_A_modal_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False
+s02_A_modal_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s02_A_modal_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s02_A_modal_D034,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False
+s02_A_modal_D021,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False
+s02_A_modal_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s02_A_modal_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s02_A_modal_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True
+s02_A_modal_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s02_A_modal_D032,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False
+s02_A_modal_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s02_A_modal_C038,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False
+s02_A_modal_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s02_A_modal_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s02_A_modal_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False
+s02_A_modal_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s02_A_modal_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s02_A_modal_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s02_A_modal_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s02_A_modal_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s02_A_modal_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s02_A_modal_F004,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False
+s02_A_modal_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s02_A_modal_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s02_A_modal_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s02_A_modal_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False
+s02_A_modal_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s02_A_modal_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s02_A_modal_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s02_A_modal_D007,He measured the flour twice and still got it wrong.,He measured the flower twice and got it wrong.,True
+s02_A_modal_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
+s02_A_modal_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s02_A_modal_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s02_A_modal_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s02_A_modal_C015,Skip to the next song.,Skip to the next song.,False
+s02_A_modal_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s02_A_modal_C012,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False
+s02_A_modal_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s02_A_modal_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True
+s02_A_modal_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s02_A_modal_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s02_A_modal_D026,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False
+s02_A_modal_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s02_A_modal_F025,It felt like the longest week of the entire summer.,It felt like the longest week of my entire summer.,True
+s02_A_modal_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s02_A_modal_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s02_A_modal_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s02_A_modal_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s02_A_modal_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s02_A_modal_C013,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False
+s02_A_modal_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s02_A_modal_C035,How many days until September first?,How many days until September?,True
+s02_A_modal_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s02_A_modal_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s02_A_modal_D023,She wrote the whole essay on a borrowed laptop.,She wrote a whole essay on a borrowed laptop.,True
+s02_A_modal_C039,What's on my agenda this morning?,What's my agenda this morning?,True
+s02_A_modal_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s02_A_modal_C034,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False
+s02_A_modal_C037,Where is the nearest pharmacy?,What is the nearest pharmacy?,True
+s02_A_modal_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s02_A_modal_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s02_A_modal_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s02_A_modal_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s02_A_modal_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s02_A_modal_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s02_A_modal_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s02_A_modal_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s02_A_modal_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s02_A_modal_C028,Is it going to rain this evening?,Is it going to rain this evening?,False
+s02_A_modal_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s02_A_modal_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s02_A_modal_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s02_A_modal_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s02_A_modal_C030,Delete the last voice memo.,delete that last voice memo.,True
+s02_A_modal_C010,What time does the library close today?,What time does the library close today?,False
+s02_A_modal_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s02_A_modal_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s02_A_modal_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s02_A_modal_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s02_A_modal_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True
+s02_A_modal_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s02_A_modal_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s02_A_modal_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s02_A_modal_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s02_A_modal_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True
+s02_A_modal_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s02_A_modal_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s02_A_modal_F001,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False
+s02_A_modal_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s02_A_modal_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s02_A_modal_D027,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False
+s02_A_modal_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s02_A_modal_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s02_A_modal_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s02_A_modal_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s02_A_modal_C007,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False
+s02_A_modal_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s02_A_modal_F012,We sat there in the car for maybe twenty minutes.,We sat there in the car for maybe twenty minutes.,False
+s02_B_natural_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s02_B_natural_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s02_B_natural_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s02_B_natural_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s02_B_natural_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True
+s02_B_natural_D027,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False
+s02_B_natural_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s02_B_natural_C038,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False
+s02_B_natural_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True
+s02_B_natural_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s02_B_natural_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s02_B_natural_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s02_B_natural_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s02_B_natural_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s02_B_natural_D021,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False
+s02_B_natural_C010,What time does the library close today?,What time does the library close today?,False
+s02_B_natural_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s02_B_natural_C028,Is it going to rain this evening?,Is it gonna rain this evening?,True
+s02_B_natural_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s02_B_natural_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s02_B_natural_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s02_B_natural_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s02_B_natural_F012,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True
+s02_B_natural_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False
+s02_B_natural_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s02_B_natural_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s02_B_natural_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s02_B_natural_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s02_B_natural_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s02_B_natural_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s02_B_natural_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s02_B_natural_D023,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False
+s02_B_natural_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s02_B_natural_C013,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False
+s02_B_natural_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s02_B_natural_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s02_B_natural_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s02_B_natural_C037,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False
+s02_B_natural_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s02_B_natural_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s02_B_natural_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s02_B_natural_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s02_B_natural_F004,"He said he'd call back, but he never really did.","He said he'd call back, but he never did.",True
+s02_B_natural_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s02_B_natural_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s02_B_natural_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s02_B_natural_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s02_B_natural_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s02_B_natural_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False
+s02_B_natural_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s02_B_natural_F001,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False
+s02_B_natural_C035,How many days until September first?,How many days until September first?,False
+s02_B_natural_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s02_B_natural_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s02_B_natural_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s02_B_natural_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s02_B_natural_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s02_B_natural_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s02_B_natural_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
+s02_B_natural_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s02_B_natural_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False
+s02_B_natural_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s02_B_natural_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s02_B_natural_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s02_B_natural_C015,Skip to the next song.,Skip to the next song.,False
+s02_B_natural_C030,Delete the last voice memo.,Delete the last voice memo.,False
+s02_B_natural_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s02_B_natural_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s02_B_natural_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s02_B_natural_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s02_B_natural_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s02_B_natural_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s02_B_natural_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s02_B_natural_D007,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False
+s02_B_natural_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s02_B_natural_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s02_B_natural_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s02_B_natural_D026,We watched the storm move east across the valley.,We watched the storm move east across the val.,True
+s02_B_natural_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True
+s02_B_natural_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s02_B_natural_D032,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False
+s02_B_natural_C039,What's on my agenda this morning?,What's on my agenda this morning?,False
+s02_B_natural_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s02_B_natural_F025,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False
+s02_B_natural_D034,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False
+s02_B_natural_C034,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False
+s02_B_natural_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False
+s02_B_natural_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s02_B_natural_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s02_B_natural_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s02_B_natural_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s02_B_natural_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s02_B_natural_C012,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False
+s02_B_natural_C007,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False
+s02_B_natural_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s02_B_natural_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s02_B_natural_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s02_B_natural_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s02_B_natural_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s02_B_natural_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s02_C_creak_D021,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False
+s02_C_creak_D006,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False
+s02_C_creak_F002,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False
+s02_C_creak_F017,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False
+s02_C_creak_D012,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True
+s02_C_creak_D003,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False
+s02_C_creak_C007,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False
+s02_C_creak_C017,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False
+s02_C_creak_D014,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False
+s02_C_creak_D017,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False
+s02_C_creak_C020,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False
+s02_C_creak_D035,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False
+s02_C_creak_F023,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False
+s02_C_creak_C003,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False
+s02_C_creak_C022,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False
+s02_C_creak_F019,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False
+s02_C_creak_F009,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True
+s02_C_creak_F016,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False
+s02_C_creak_F007,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False
+s02_C_creak_F003,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False
+s02_C_creak_C031,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False
+s02_C_creak_F020,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False
+s02_C_creak_C036,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False
+s02_C_creak_D024,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False
+s02_C_creak_D010,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False
+s02_C_creak_D002,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False
+s02_C_creak_D031,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False
+s02_C_creak_C027,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False
+s02_C_creak_C010,What time does the library close today?,What time does the library close today?,False
+s02_C_creak_F013,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False
+s02_C_creak_F022,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False
+s02_C_creak_D007,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False
+s02_C_creak_C015,Skip to the next song.,Skip to the next song.,False
+s02_C_creak_F015,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False
+s02_C_creak_D011,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True
+s02_C_creak_C030,Delete the last voice memo.,Delete the last voice memo.,False
+s02_C_creak_D020,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False
+s02_C_creak_C005,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False
+s02_C_creak_C004,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True
+s02_C_creak_D025,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False
+s02_C_creak_D013,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False
+s02_C_creak_C025,Turn the volume down a little.,Turn the volume down a little.,False
+s02_C_creak_D008,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False
+s02_C_creak_C039,What's on my agenda this morning?,What's on my agenda this morning?,False
+s02_C_creak_D023,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False
+s02_C_creak_D001,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False
+s02_C_creak_C024,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False
+s02_C_creak_D027,The tailor pinned the hem with practiced fingers.,Int the tailor pinned the hem with practiced fingers.,True
+s02_C_creak_F021,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False
+s02_C_creak_F011,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True
+s02_C_creak_C009,Turn off the bedroom lights.,Turn off the bedroom lights.,False
+s02_C_creak_C040,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False
+s02_C_creak_C008,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False
+s02_C_creak_D018,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False
+s02_C_creak_D009,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False
+s02_C_creak_C035,How many days until September first?,How many days until September first?,False
+s02_C_creak_D019,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False
+s02_C_creak_C021,Start a workout on my watch.,Start a workout on my watch.,False
+s02_C_creak_C014,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False
+s02_C_creak_F006,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False
+s02_C_creak_F010,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False
+s02_C_creak_F025,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False
+s02_C_creak_C029,Play something quiet while I study.,Play something quiet while I study.,False
+s02_C_creak_F008,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False
+s02_C_creak_C011,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False
+s02_C_creak_D028,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False
+s02_C_creak_C018,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False
+s02_C_creak_D016,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False
+s02_C_creak_F018,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False
+s02_C_creak_F001,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False
+s02_C_creak_D030,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False
+s02_C_creak_C002,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False
+s02_C_creak_C001,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False
+s02_C_creak_C006,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False
+s02_C_creak_C034,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False
+s02_C_creak_C033,Tell me a joke about linguists.,Tell me a joke about linguists.,False
+s02_C_creak_F012,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True
+s02_C_creak_D026,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False
+s02_C_creak_C019,Read my last message from Anjali.,Read my last message from Anjali.,False
+s02_C_creak_C032,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False
+s02_C_creak_C012,Send a photo to the choir group chat.,Send a photo of the choir group chat.,True
+s02_C_creak_D033,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False
+s02_C_creak_C013,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False
+s02_C_creak_D029,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False
+s02_C_creak_C026,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True
+s02_C_creak_F004,"He said he'd call back, but he never really did.","He said that he'd call back, but he never really did.",True
+s02_C_creak_D005,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False
+s02_C_creak_C016,What's the score of the Mets game?,What's the score of the Mets game?,False
+s02_C_creak_C038,Email the lab about the annotation deadline.,Mail the lab about the annotation deadline.,True
+s02_C_creak_D015,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False
+s02_C_creak_C037,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False
+s02_C_creak_D034,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False
+s02_C_creak_F014,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False
+s02_C_creak_F024,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False
+s02_C_creak_D004,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False
+s02_C_creak_C023,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False
+s02_C_creak_F005,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False
+s02_C_creak_C028,Is it going to rain this evening?,Is it going to rain this evening?,False
+s02_C_creak_D032,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False
+s02_C_creak_D022,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False
