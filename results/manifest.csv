@@ -1,0 +1,601 @@
+utt_id,session,pass,item_id,item_type,script_text,verbatim_text,was_corrected,wav_path,duration_sec
+s01_A_modal_C001,s01,A_modal,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s01_A_modal_C001.wav,2.48
+s01_A_modal_C002,s01,A_modal,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s01_A_modal_C002.wav,2.63
+s01_A_modal_C003,s01,A_modal,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s01_A_modal_C003.wav,2.86
+s01_A_modal_C004,s01,A_modal,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s01_A_modal_C004.wav,2.56
+s01_A_modal_C005,s01,A_modal,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s01_A_modal_C005.wav,2.96
+s01_A_modal_C006,s01,A_modal,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s01_A_modal_C006.wav,2.66
+s01_A_modal_C007,s01,A_modal,C007,command,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False,data/split/s01_A_modal_C007.wav,3.08
+s01_A_modal_C008,s01,A_modal,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s01_A_modal_C008.wav,2.7
+s01_A_modal_C009,s01,A_modal,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s01_A_modal_C009.wav,2.2
+s01_A_modal_C010,s01,A_modal,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s01_A_modal_C010.wav,2.42
+s01_A_modal_C011,s01,A_modal,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s01_A_modal_C011.wav,2.68
+s01_A_modal_C012,s01,A_modal,C012,command,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False,data/split/s01_A_modal_C012.wav,2.94
+s01_A_modal_C013,s01,A_modal,C013,command,Show me my calendar for next Thursday.,Show me a calendar for next Thursday.,True,data/split/s01_A_modal_C013.wav,2.72
+s01_A_modal_C014,s01,A_modal,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s01_A_modal_C014.wav,3.61
+s01_A_modal_C015,s01,A_modal,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s01_A_modal_C015.wav,1.41
+s01_A_modal_C016,s01,A_modal,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s01_A_modal_C016.wav,2.76
+s01_A_modal_C017,s01,A_modal,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s01_A_modal_C017.wav,2.395
+s01_A_modal_C018,s01,A_modal,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s01_A_modal_C018.wav,2.58
+s01_A_modal_C019,s01,A_modal,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s01_A_modal_C019.wav,3.49
+s01_A_modal_C020,s01,A_modal,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s01_A_modal_C020.wav,2.74
+s01_A_modal_C021,s01,A_modal,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s01_A_modal_C021.wav,2.55
+s01_A_modal_C022,s01,A_modal,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s01_A_modal_C022.wav,2.4
+s01_A_modal_C023,s01,A_modal,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_A_modal_C023.wav,2.78
+s01_A_modal_C024,s01,A_modal,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_A_modal_C024.wav,2.215
+s01_A_modal_C025,s01,A_modal,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_A_modal_C025.wav,1.53
+s01_A_modal_C026,s01,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_A_modal_C026.wav,3.12
+s01_A_modal_C027,s01,A_modal,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_A_modal_C027.wav,2.4
+s01_A_modal_C028,s01,A_modal,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_A_modal_C028.wav,2.32
+s01_A_modal_C029,s01,A_modal,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_A_modal_C029.wav,2.2
+s01_A_modal_C030,s01,A_modal,C030,command,Delete the last voice memo.,Delete the last voice memo.,False,data/split/s01_A_modal_C030.wav,2.2
+s01_A_modal_C031,s01,A_modal,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s01_A_modal_C031.wav,2.84
+s01_A_modal_C032,s01,A_modal,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s01_A_modal_C032.wav,2.82
+s01_A_modal_C033,s01,A_modal,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s01_A_modal_C033.wav,2.18
+s01_A_modal_C034,s01,A_modal,C034,command,Show me photos from Cape Cod.,Show me photos of Cape Caw.,True,data/split/s01_A_modal_C034.wav,2.18
+s01_A_modal_C035,s01,A_modal,C035,command,How many days until September first?,How many days until September?,True,data/split/s01_A_modal_C035.wav,2.37
+s01_A_modal_C036,s01,A_modal,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s01_A_modal_C036.wav,2.5
+s01_A_modal_C037,s01,A_modal,C037,command,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False,data/split/s01_A_modal_C037.wav,2.28
+s01_A_modal_C038,s01,A_modal,C038,command,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False,data/split/s01_A_modal_C038.wav,3.12
+s01_A_modal_C039,s01,A_modal,C039,command,What's on my agenda this morning?,What is my agenda this morning?,True,data/split/s01_A_modal_C039.wav,1.83
+s01_A_modal_C040,s01,A_modal,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s01_A_modal_C040.wav,2.26
+s01_A_modal_D001,s01,A_modal,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s01_A_modal_D001.wav,3.12
+s01_A_modal_D002,s01,A_modal,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s01_A_modal_D002.wav,3.5
+s01_A_modal_D003,s01,A_modal,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s01_A_modal_D003.wav,3.06
+s01_A_modal_D004,s01,A_modal,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s01_A_modal_D004.wav,2.9
+s01_A_modal_D005,s01,A_modal,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s01_A_modal_D005.wav,3.44
+s01_A_modal_D006,s01,A_modal,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s01_A_modal_D006.wav,3.28
+s01_A_modal_D007,s01,A_modal,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False,data/split/s01_A_modal_D007.wav,3.52
+s01_A_modal_D008,s01,A_modal,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s01_A_modal_D008.wav,3.6
+s01_A_modal_D009,s01,A_modal,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s01_A_modal_D009.wav,3.08
+s01_A_modal_D010,s01,A_modal,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s01_A_modal_D010.wav,3.48
+s01_A_modal_D011,s01,A_modal,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False,data/split/s01_A_modal_D011.wav,3.24
+s01_A_modal_D012,s01,A_modal,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s01_A_modal_D012.wav,3.16
+s01_A_modal_D013,s01,A_modal,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s01_A_modal_D013.wav,2.86
+s01_A_modal_D014,s01,A_modal,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False,data/split/s01_A_modal_D014.wav,2.56
+s01_A_modal_D015,s01,A_modal,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s01_A_modal_D015.wav,2.8
+s01_A_modal_D016,s01,A_modal,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s01_A_modal_D016.wav,3.88
+s01_A_modal_D017,s01,A_modal,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s01_A_modal_D017.wav,3.54
+s01_A_modal_D018,s01,A_modal,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s01_A_modal_D018.wav,3.46
+s01_A_modal_D019,s01,A_modal,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s01_A_modal_D019.wav,3.12
+s01_A_modal_D020,s01,A_modal,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s01_A_modal_D020.wav,4.27
+s01_A_modal_D021,s01,A_modal,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False,data/split/s01_A_modal_D021.wav,3.7
+s01_A_modal_D022,s01,A_modal,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s01_A_modal_D022.wav,3.68
+s01_A_modal_D023,s01,A_modal,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False,data/split/s01_A_modal_D023.wav,3.31
+s01_A_modal_D024,s01,A_modal,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s01_A_modal_D024.wav,2.88
+s01_A_modal_D025,s01,A_modal,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s01_A_modal_D025.wav,3.08
+s01_A_modal_D026,s01,A_modal,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False,data/split/s01_A_modal_D026.wav,3.48
+s01_A_modal_D027,s01,A_modal,D027,declarative,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False,data/split/s01_A_modal_D027.wav,3.015
+s01_A_modal_D028,s01,A_modal,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s01_A_modal_D028.wav,2.715
+s01_A_modal_D029,s01,A_modal,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s01_A_modal_D029.wav,2.91
+s01_A_modal_D030,s01,A_modal,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False,data/split/s01_A_modal_D030.wav,3.88
+s01_A_modal_D031,s01,A_modal,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s01_A_modal_D031.wav,3.8
+s01_A_modal_D032,s01,A_modal,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False,data/split/s01_A_modal_D032.wav,3.64
+s01_A_modal_D033,s01,A_modal,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s01_A_modal_D033.wav,3.02
+s01_A_modal_D034,s01,A_modal,D034,declarative,The children traded stickers during the long bus ride.,The children traded sticks during the long bus ride.,True,data/split/s01_A_modal_D034.wav,3.52
+s01_A_modal_D035,s01,A_modal,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s01_A_modal_D035.wav,3.6
+s01_A_modal_F001,s01,A_modal,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False,data/split/s01_A_modal_F001.wav,2.87
+s01_A_modal_F002,s01,A_modal,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s01_A_modal_F002.wav,3.64
+s01_A_modal_F003,s01,A_modal,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False,data/split/s01_A_modal_F003.wav,3.66
+s01_A_modal_F004,s01,A_modal,F004,final_fall,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False,data/split/s01_A_modal_F004.wav,3.48
+s01_A_modal_F005,s01,A_modal,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s01_A_modal_F005.wav,3.62
+s01_A_modal_F006,s01,A_modal,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s01_A_modal_F006.wav,2.58
+s01_A_modal_F007,s01,A_modal,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s01_A_modal_F007.wav,3.78
+s01_A_modal_F008,s01,A_modal,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s01_A_modal_F008.wav,3.32
+s01_A_modal_F009,s01,A_modal,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True,data/split/s01_A_modal_F009.wav,3.28
+s01_A_modal_F010,s01,A_modal,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s01_A_modal_F010.wav,3.8
+s01_A_modal_F011,s01,A_modal,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True,data/split/s01_A_modal_F011.wav,1.95
+s01_A_modal_F012,s01,A_modal,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minute.,True,data/split/s01_A_modal_F012.wav,2.47
+s01_A_modal_F013,s01,A_modal,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s01_A_modal_F013.wav,3.06
+s01_A_modal_F014,s01,A_modal,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s01_A_modal_F014.wav,2.86
+s01_A_modal_F015,s01,A_modal,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s01_A_modal_F015.wav,3.55
+s01_A_modal_F016,s01,A_modal,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s01_A_modal_F016.wav,3.56
+s01_A_modal_F017,s01,A_modal,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s01_A_modal_F017.wav,3.53
+s01_A_modal_F018,s01,A_modal,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s01_A_modal_F018.wav,3.04
+s01_A_modal_F019,s01,A_modal,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s01_A_modal_F019.wav,3.23
+s01_A_modal_F020,s01,A_modal,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s01_A_modal_F020.wav,2.98
+s01_A_modal_F021,s01,A_modal,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s01_A_modal_F021.wav,3.08
+s01_A_modal_F022,s01,A_modal,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s01_A_modal_F022.wav,4.1
+s01_A_modal_F023,s01,A_modal,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s01_A_modal_F023.wav,3.24
+s01_A_modal_F024,s01,A_modal,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s01_A_modal_F024.wav,3.74
+s01_A_modal_F025,s01,A_modal,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False,data/split/s01_A_modal_F025.wav,3.17
+s01_B_natural_C001,s01,B_natural,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s01_B_natural_C001.wav,2.18
+s01_B_natural_C002,s01,B_natural,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s01_B_natural_C002.wav,2.36
+s01_B_natural_C003,s01,B_natural,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s01_B_natural_C003.wav,2.44
+s01_B_natural_C004,s01,B_natural,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s01_B_natural_C004.wav,2.22
+s01_B_natural_C005,s01,B_natural,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s01_B_natural_C005.wav,2.79
+s01_B_natural_C006,s01,B_natural,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s01_B_natural_C006.wav,1.96
+s01_B_natural_C007,s01,B_natural,C007,command,Add oat milk to my grocery list.,Add oatmilk to.,True,data/split/s01_B_natural_C007.wav,1.29
+s01_B_natural_C008,s01,B_natural,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s01_B_natural_C008.wav,2.64
+s01_B_natural_C009,s01,B_natural,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s01_B_natural_C009.wav,1.88
+s01_B_natural_C010,s01,B_natural,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s01_B_natural_C010.wav,2.07
+s01_B_natural_C011,s01,B_natural,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s01_B_natural_C011.wav,2.53
+s01_B_natural_C012,s01,B_natural,C012,command,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False,data/split/s01_B_natural_C012.wav,2.71
+s01_B_natural_C013,s01,B_natural,C013,command,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False,data/split/s01_B_natural_C013.wav,2.6
+s01_B_natural_C014,s01,B_natural,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s01_B_natural_C014.wav,3.72
+s01_B_natural_C015,s01,B_natural,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s01_B_natural_C015.wav,1.82
+s01_B_natural_C016,s01,B_natural,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s01_B_natural_C016.wav,2.28
+s01_B_natural_C017,s01,B_natural,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s01_B_natural_C017.wav,1.94
+s01_B_natural_C018,s01,B_natural,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s01_B_natural_C018.wav,2.68
+s01_B_natural_C019,s01,B_natural,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s01_B_natural_C019.wav,2.63
+s01_B_natural_C020,s01,B_natural,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s01_B_natural_C020.wav,2.16
+s01_B_natural_C021,s01,B_natural,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s01_B_natural_C021.wav,2.26
+s01_B_natural_C022,s01,B_natural,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s01_B_natural_C022.wav,2.99
+s01_B_natural_C023,s01,B_natural,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_B_natural_C023.wav,2.58
+s01_B_natural_C024,s01,B_natural,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_B_natural_C024.wav,2.36
+s01_B_natural_C025,s01,B_natural,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_B_natural_C025.wav,1.88
+s01_B_natural_C026,s01,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_B_natural_C026.wav,2.78
+s01_B_natural_C027,s01,B_natural,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_B_natural_C027.wav,2.58
+s01_B_natural_C028,s01,B_natural,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_B_natural_C028.wav,1.86
+s01_B_natural_C029,s01,B_natural,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_B_natural_C029.wav,2.32
+s01_B_natural_C030,s01,B_natural,C030,command,Delete the last voice memo.,Delete the last voice memo.,False,data/split/s01_B_natural_C030.wav,1.62
+s01_B_natural_C031,s01,B_natural,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s01_B_natural_C031.wav,3.1
+s01_B_natural_C032,s01,B_natural,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s01_B_natural_C032.wav,3.11
+s01_B_natural_C033,s01,B_natural,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s01_B_natural_C033.wav,2.08
+s01_B_natural_C034,s01,B_natural,C034,command,Show me photos from Cape Cod.,Show me photos of Cape Caw.,True,data/split/s01_B_natural_C034.wav,1.82
+s01_B_natural_C035,s01,B_natural,C035,command,How many days until September first?,How many days until September first?,False,data/split/s01_B_natural_C035.wav,2.93
+s01_B_natural_C036,s01,B_natural,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s01_B_natural_C036.wav,2.09
+s01_B_natural_C037,s01,B_natural,C037,command,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False,data/split/s01_B_natural_C037.wav,1.94
+s01_B_natural_C038,s01,B_natural,C038,command,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False,data/split/s01_B_natural_C038.wav,2.68
+s01_B_natural_C039,s01,B_natural,C039,command,What's on my agenda this morning?,What's on my agenda this morning?,False,data/split/s01_B_natural_C039.wav,2.08
+s01_B_natural_C040,s01,B_natural,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s01_B_natural_C040.wav,2.08
+s01_B_natural_D001,s01,B_natural,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s01_B_natural_D001.wav,3.08
+s01_B_natural_D002,s01,B_natural,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s01_B_natural_D002.wav,3.11
+s01_B_natural_D003,s01,B_natural,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s01_B_natural_D003.wav,2.95
+s01_B_natural_D004,s01,B_natural,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s01_B_natural_D004.wav,3.0
+s01_B_natural_D005,s01,B_natural,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s01_B_natural_D005.wav,3.4
+s01_B_natural_D006,s01,B_natural,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s01_B_natural_D006.wav,3.0
+s01_B_natural_D007,s01,B_natural,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False,data/split/s01_B_natural_D007.wav,3.7
+s01_B_natural_D008,s01,B_natural,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s01_B_natural_D008.wav,3.38
+s01_B_natural_D009,s01,B_natural,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s01_B_natural_D009.wav,2.73
+s01_B_natural_D010,s01,B_natural,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s01_B_natural_D010.wav,2.89
+s01_B_natural_D011,s01,B_natural,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False,data/split/s01_B_natural_D011.wav,2.86
+s01_B_natural_D012,s01,B_natural,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s01_B_natural_D012.wav,2.49
+s01_B_natural_D013,s01,B_natural,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s01_B_natural_D013.wav,3.58
+s01_B_natural_D014,s01,B_natural,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False,data/split/s01_B_natural_D014.wav,2.72
+s01_B_natural_D015,s01,B_natural,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s01_B_natural_D015.wav,3.41
+s01_B_natural_D016,s01,B_natural,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s01_B_natural_D016.wav,2.88
+s01_B_natural_D017,s01,B_natural,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s01_B_natural_D017.wav,2.58
+s01_B_natural_D018,s01,B_natural,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s01_B_natural_D018.wav,3.0
+s01_B_natural_D019,s01,B_natural,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s01_B_natural_D019.wav,2.61
+s01_B_natural_D020,s01,B_natural,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s01_B_natural_D020.wav,3.31
+s01_B_natural_D021,s01,B_natural,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False,data/split/s01_B_natural_D021.wav,3.51
+s01_B_natural_D022,s01,B_natural,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s01_B_natural_D022.wav,3.3
+s01_B_natural_D023,s01,B_natural,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False,data/split/s01_B_natural_D023.wav,2.84
+s01_B_natural_D024,s01,B_natural,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s01_B_natural_D024.wav,3.08
+s01_B_natural_D025,s01,B_natural,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s01_B_natural_D025.wav,3.22
+s01_B_natural_D026,s01,B_natural,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False,data/split/s01_B_natural_D026.wav,2.9
+s01_B_natural_D027,s01,B_natural,D027,declarative,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False,data/split/s01_B_natural_D027.wav,2.7
+s01_B_natural_D028,s01,B_natural,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s01_B_natural_D028.wav,2.46
+s01_B_natural_D029,s01,B_natural,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s01_B_natural_D029.wav,2.88
+s01_B_natural_D030,s01,B_natural,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless on the edge of the pond.,True,data/split/s01_B_natural_D030.wav,2.99
+s01_B_natural_D031,s01,B_natural,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s01_B_natural_D031.wav,2.77
+s01_B_natural_D032,s01,B_natural,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False,data/split/s01_B_natural_D032.wav,2.61
+s01_B_natural_D033,s01,B_natural,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s01_B_natural_D033.wav,2.98
+s01_B_natural_D034,s01,B_natural,D034,declarative,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False,data/split/s01_B_natural_D034.wav,3.28
+s01_B_natural_D035,s01,B_natural,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s01_B_natural_D035.wav,3.33
+s01_B_natural_F001,s01,B_natural,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False,data/split/s01_B_natural_F001.wav,2.49
+s01_B_natural_F002,s01,B_natural,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s01_B_natural_F002.wav,2.85
+s01_B_natural_F003,s01,B_natural,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False,data/split/s01_B_natural_F003.wav,3.4
+s01_B_natural_F004,s01,B_natural,F004,final_fall,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False,data/split/s01_B_natural_F004.wav,2.73
+s01_B_natural_F005,s01,B_natural,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s01_B_natural_F005.wav,3.53
+s01_B_natural_F006,s01,B_natural,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s01_B_natural_F006.wav,2.36
+s01_B_natural_F007,s01,B_natural,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s01_B_natural_F007.wav,3.14
+s01_B_natural_F008,s01,B_natural,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s01_B_natural_F008.wav,3.04
+s01_B_natural_F009,s01,B_natural,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True,data/split/s01_B_natural_F009.wav,2.76
+s01_B_natural_F010,s01,B_natural,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s01_B_natural_F010.wav,3.5
+s01_B_natural_F011,s01,B_natural,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True,data/split/s01_B_natural_F011.wav,1.83
+s01_B_natural_F012,s01,B_natural,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat there in the car for maybe twenty minutes.,False,data/split/s01_B_natural_F012.wav,2.74
+s01_B_natural_F013,s01,B_natural,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s01_B_natural_F013.wav,2.81
+s01_B_natural_F014,s01,B_natural,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s01_B_natural_F014.wav,2.88
+s01_B_natural_F015,s01,B_natural,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s01_B_natural_F015.wav,2.81
+s01_B_natural_F016,s01,B_natural,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s01_B_natural_F016.wav,2.65
+s01_B_natural_F017,s01,B_natural,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s01_B_natural_F017.wav,2.99
+s01_B_natural_F018,s01,B_natural,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s01_B_natural_F018.wav,3.2
+s01_B_natural_F019,s01,B_natural,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s01_B_natural_F019.wav,2.53
+s01_B_natural_F020,s01,B_natural,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s01_B_natural_F020.wav,2.9
+s01_B_natural_F021,s01,B_natural,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s01_B_natural_F021.wav,2.88
+s01_B_natural_F022,s01,B_natural,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s01_B_natural_F022.wav,3.04
+s01_B_natural_F023,s01,B_natural,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s01_B_natural_F023.wav,3.46
+s01_B_natural_F024,s01,B_natural,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s01_B_natural_F024.wav,2.86
+s01_B_natural_F025,s01,B_natural,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False,data/split/s01_B_natural_F025.wav,3.06
+s01_C_creak_C001,s01,C_creak,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s01_C_creak_C001.wav,2.14
+s01_C_creak_C002,s01,C_creak,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s01_C_creak_C002.wav,2.36
+s01_C_creak_C003,s01,C_creak,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s01_C_creak_C003.wav,2.48
+s01_C_creak_C004,s01,C_creak,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album,True,data/split/s01_C_creak_C004.wav,2.42
+s01_C_creak_C005,s01,C_creak,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s01_C_creak_C005.wav,3.0
+s01_C_creak_C006,s01,C_creak,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s01_C_creak_C006.wav,2.18
+s01_C_creak_C007,s01,C_creak,C007,command,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False,data/split/s01_C_creak_C007.wav,3.17
+s01_C_creak_C008,s01,C_creak,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s01_C_creak_C008.wav,2.42
+s01_C_creak_C009,s01,C_creak,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s01_C_creak_C009.wav,1.78
+s01_C_creak_C010,s01,C_creak,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s01_C_creak_C010.wav,3.4
+s01_C_creak_C011,s01,C_creak,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s01_C_creak_C011.wav,2.22
+s01_C_creak_C012,s01,C_creak,C012,command,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False,data/split/s01_C_creak_C012.wav,2.52
+s01_C_creak_C013,s01,C_creak,C013,command,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False,data/split/s01_C_creak_C013.wav,2.46
+s01_C_creak_C014,s01,C_creak,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s01_C_creak_C014.wav,2.7
+s01_C_creak_C015,s01,C_creak,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s01_C_creak_C015.wav,1.78
+s01_C_creak_C016,s01,C_creak,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s01_C_creak_C016.wav,2.32
+s01_C_creak_C017,s01,C_creak,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s01_C_creak_C017.wav,2.29
+s01_C_creak_C018,s01,C_creak,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s01_C_creak_C018.wav,2.6
+s01_C_creak_C019,s01,C_creak,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s01_C_creak_C019.wav,2.34
+s01_C_creak_C020,s01,C_creak,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s01_C_creak_C020.wav,2.63
+s01_C_creak_C021,s01,C_creak,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s01_C_creak_C021.wav,2.38
+s01_C_creak_C022,s01,C_creak,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s01_C_creak_C022.wav,2.68
+s01_C_creak_C023,s01,C_creak,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_C_creak_C023.wav,2.65
+s01_C_creak_C024,s01,C_creak,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_C_creak_C024.wav,2.55
+s01_C_creak_C025,s01,C_creak,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_C_creak_C025.wav,1.88
+s01_C_creak_C026,s01,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_C_creak_C026.wav,2.76
+s01_C_creak_C027,s01,C_creak,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_C_creak_C027.wav,1.91
+s01_C_creak_C028,s01,C_creak,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_C_creak_C028.wav,3.26
+s01_C_creak_C029,s01,C_creak,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_C_creak_C029.wav,2.66
+s01_C_creak_C030,s01,C_creak,C030,command,Delete the last voice memo.,Delete the last voice memo.,False,data/split/s01_C_creak_C030.wav,2.18
+s01_C_creak_C031,s01,C_creak,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s01_C_creak_C031.wav,3.2
+s01_C_creak_C032,s01,C_creak,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s01_C_creak_C032.wav,2.84
+s01_C_creak_C033,s01,C_creak,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s01_C_creak_C033.wav,3.56
+s01_C_creak_C034,s01,C_creak,C034,command,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False,data/split/s01_C_creak_C034.wav,2.06
+s01_C_creak_C035,s01,C_creak,C035,command,How many days until September first?,How many days until September first?,False,data/split/s01_C_creak_C035.wav,2.47
+s01_C_creak_C036,s01,C_creak,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s01_C_creak_C036.wav,2.55
+s01_C_creak_C037,s01,C_creak,C037,command,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False,data/split/s01_C_creak_C037.wav,2.18
+s01_C_creak_C038,s01,C_creak,C038,command,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False,data/split/s01_C_creak_C038.wav,2.64
+s01_C_creak_C039,s01,C_creak,C039,command,What's on my agenda this morning?,What's on my agenda this morning?,False,data/split/s01_C_creak_C039.wav,2.46
+s01_C_creak_C040,s01,C_creak,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s01_C_creak_C040.wav,2.56
+s01_C_creak_D001,s01,C_creak,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s01_C_creak_D001.wav,3.15
+s01_C_creak_D002,s01,C_creak,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s01_C_creak_D002.wav,4.06
+s01_C_creak_D003,s01,C_creak,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s01_C_creak_D003.wav,2.92
+s01_C_creak_D004,s01,C_creak,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s01_C_creak_D004.wav,3.2
+s01_C_creak_D005,s01,C_creak,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s01_C_creak_D005.wav,3.48
+s01_C_creak_D006,s01,C_creak,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s01_C_creak_D006.wav,3.1
+s01_C_creak_D007,s01,C_creak,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False,data/split/s01_C_creak_D007.wav,3.67
+s01_C_creak_D008,s01,C_creak,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s01_C_creak_D008.wav,3.36
+s01_C_creak_D009,s01,C_creak,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s01_C_creak_D009.wav,3.6
+s01_C_creak_D010,s01,C_creak,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s01_C_creak_D010.wav,5.29
+s01_C_creak_D011,s01,C_creak,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True,data/split/s01_C_creak_D011.wav,3.76
+s01_C_creak_D012,s01,C_creak,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s01_C_creak_D012.wav,3.06
+s01_C_creak_D013,s01,C_creak,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s01_C_creak_D013.wav,3.26
+s01_C_creak_D014,s01,C_creak,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back doors.,True,data/split/s01_C_creak_D014.wav,3.64
+s01_C_creak_D015,s01,C_creak,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s01_C_creak_D015.wav,3.74
+s01_C_creak_D016,s01,C_creak,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s01_C_creak_D016.wav,3.12
+s01_C_creak_D017,s01,C_creak,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s01_C_creak_D017.wav,3.05
+s01_C_creak_D018,s01,C_creak,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s01_C_creak_D018.wav,3.2
+s01_C_creak_D019,s01,C_creak,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s01_C_creak_D019.wav,2.79
+s01_C_creak_D020,s01,C_creak,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s01_C_creak_D020.wav,3.52
+s01_C_creak_D021,s01,C_creak,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe calls for saffron, which we could not find.",True,data/split/s01_C_creak_D021.wav,3.81
+s01_C_creak_D022,s01,C_creak,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s01_C_creak_D022.wav,3.53
+s01_C_creak_D023,s01,C_creak,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False,data/split/s01_C_creak_D023.wav,3.04
+s01_C_creak_D024,s01,C_creak,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s01_C_creak_D024.wav,3.39
+s01_C_creak_D025,s01,C_creak,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s01_C_creak_D025.wav,3.26
+s01_C_creak_D026,s01,C_creak,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False,data/split/s01_C_creak_D026.wav,2.8
+s01_C_creak_D027,s01,C_creak,D027,declarative,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False,data/split/s01_C_creak_D027.wav,3.11
+s01_C_creak_D028,s01,C_creak,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s01_C_creak_D028.wav,2.78
+s01_C_creak_D029,s01,C_creak,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s01_C_creak_D029.wav,2.78
+s01_C_creak_D030,s01,C_creak,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False,data/split/s01_C_creak_D030.wav,3.4
+s01_C_creak_D031,s01,C_creak,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s01_C_creak_D031.wav,3.97
+s01_C_creak_D032,s01,C_creak,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspapers and set it on the tape.,True,data/split/s01_C_creak_D032.wav,3.02
+s01_C_creak_D033,s01,C_creak,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s01_C_creak_D033.wav,2.88
+s01_C_creak_D034,s01,C_creak,D034,declarative,The children traded stickers during the long bus ride.,The children traded stickers during the long bus.,True,data/split/s01_C_creak_D034.wav,3.21
+s01_C_creak_D035,s01,C_creak,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s01_C_creak_D035.wav,3.56
+s01_C_creak_F001,s01,C_creak,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't know what she was thinking, honest.",True,data/split/s01_C_creak_F001.wav,3.3
+s01_C_creak_F002,s01,C_creak,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s01_C_creak_F002.wav,2.86
+s01_C_creak_F003,s01,C_creak,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happens at all.,True,data/split/s01_C_creak_F003.wav,4.26
+s01_C_creak_F004,s01,C_creak,F004,final_fall,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False,data/split/s01_C_creak_F004.wav,3.04
+s01_C_creak_F005,s01,C_creak,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s01_C_creak_F005.wav,3.33
+s01_C_creak_F006,s01,C_creak,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s01_C_creak_F006.wav,2.96
+s01_C_creak_F007,s01,C_creak,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s01_C_creak_F007.wav,3.68
+s01_C_creak_F008,s01,C_creak,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s01_C_creak_F008.wav,3.0
+s01_C_creak_F009,s01,C_creak,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple of years ago.,False,data/split/s01_C_creak_F009.wav,3.12
+s01_C_creak_F010,s01,C_creak,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s01_C_creak_F010.wav,3.16
+s01_C_creak_F011,s01,C_creak,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now,True,data/split/s01_C_creak_F011.wav,2.13
+s01_C_creak_F012,s01,C_creak,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True,data/split/s01_C_creak_F012.wav,2.52
+s01_C_creak_F013,s01,C_creak,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s01_C_creak_F013.wav,3.6
+s01_C_creak_F014,s01,C_creak,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s01_C_creak_F014.wav,3.25
+s01_C_creak_F015,s01,C_creak,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s01_C_creak_F015.wav,3.08
+s01_C_creak_F016,s01,C_creak,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s01_C_creak_F016.wav,3.38
+s01_C_creak_F017,s01,C_creak,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s01_C_creak_F017.wav,3.44
+s01_C_creak_F018,s01,C_creak,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s01_C_creak_F018.wav,3.34
+s01_C_creak_F019,s01,C_creak,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s01_C_creak_F019.wav,3.52
+s01_C_creak_F020,s01,C_creak,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s01_C_creak_F020.wav,3.73
+s01_C_creak_F021,s01,C_creak,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s01_C_creak_F021.wav,3.33
+s01_C_creak_F022,s01,C_creak,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s01_C_creak_F022.wav,3.63
+s01_C_creak_F023,s01,C_creak,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s01_C_creak_F023.wav,3.52
+s01_C_creak_F024,s01,C_creak,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s01_C_creak_F024.wav,2.9
+s01_C_creak_F025,s01,C_creak,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False,data/split/s01_C_creak_F025.wav,2.96
+s02_A_modal_C001,s02,A_modal,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s02_A_modal_C001.wav,2.08
+s02_A_modal_C002,s02,A_modal,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s02_A_modal_C002.wav,2.24
+s02_A_modal_C003,s02,A_modal,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s02_A_modal_C003.wav,1.9
+s02_A_modal_C004,s02,A_modal,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s02_A_modal_C004.wav,2.1
+s02_A_modal_C005,s02,A_modal,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s02_A_modal_C005.wav,2.26
+s02_A_modal_C006,s02,A_modal,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s02_A_modal_C006.wav,1.96
+s02_A_modal_C007,s02,A_modal,C007,command,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False,data/split/s02_A_modal_C007.wav,1.87
+s02_A_modal_C008,s02,A_modal,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s02_A_modal_C008.wav,2.64
+s02_A_modal_C009,s02,A_modal,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s02_A_modal_C009.wav,1.33
+s02_A_modal_C010,s02,A_modal,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s02_A_modal_C010.wav,2.18
+s02_A_modal_C011,s02,A_modal,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s02_A_modal_C011.wav,1.74
+s02_A_modal_C012,s02,A_modal,C012,command,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False,data/split/s02_A_modal_C012.wav,3.48
+s02_A_modal_C013,s02,A_modal,C013,command,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False,data/split/s02_A_modal_C013.wav,2.4
+s02_A_modal_C014,s02,A_modal,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s02_A_modal_C014.wav,2.28
+s02_A_modal_C015,s02,A_modal,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s02_A_modal_C015.wav,2.04
+s02_A_modal_C016,s02,A_modal,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s02_A_modal_C016.wav,1.98
+s02_A_modal_C017,s02,A_modal,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s02_A_modal_C017.wav,2.55
+s02_A_modal_C018,s02,A_modal,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s02_A_modal_C018.wav,2.02
+s02_A_modal_C019,s02,A_modal,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s02_A_modal_C019.wav,2.2
+s02_A_modal_C020,s02,A_modal,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s02_A_modal_C020.wav,1.62
+s02_A_modal_C021,s02,A_modal,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s02_A_modal_C021.wav,1.82
+s02_A_modal_C022,s02,A_modal,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s02_A_modal_C022.wav,2.26
+s02_A_modal_C023,s02,A_modal,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_A_modal_C023.wav,2.08
+s02_A_modal_C024,s02,A_modal,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_A_modal_C024.wav,2.09
+s02_A_modal_C025,s02,A_modal,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_A_modal_C025.wav,1.6
+s02_A_modal_C026,s02,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_A_modal_C026.wav,2.165
+s02_A_modal_C027,s02,A_modal,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_A_modal_C027.wav,2.16
+s02_A_modal_C028,s02,A_modal,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s02_A_modal_C028.wav,1.9
+s02_A_modal_C029,s02,A_modal,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_A_modal_C029.wav,1.92
+s02_A_modal_C030,s02,A_modal,C030,command,Delete the last voice memo.,delete that last voice memo.,True,data/split/s02_A_modal_C030.wav,1.68
+s02_A_modal_C031,s02,A_modal,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s02_A_modal_C031.wav,2.43
+s02_A_modal_C032,s02,A_modal,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s02_A_modal_C032.wav,2.42
+s02_A_modal_C033,s02,A_modal,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s02_A_modal_C033.wav,1.98
+s02_A_modal_C034,s02,A_modal,C034,command,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False,data/split/s02_A_modal_C034.wav,1.98
+s02_A_modal_C035,s02,A_modal,C035,command,How many days until September first?,How many days until September?,True,data/split/s02_A_modal_C035.wav,1.68
+s02_A_modal_C036,s02,A_modal,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s02_A_modal_C036.wav,2.2
+s02_A_modal_C037,s02,A_modal,C037,command,Where is the nearest pharmacy?,What is the nearest pharmacy?,True,data/split/s02_A_modal_C037.wav,1.66
+s02_A_modal_C038,s02,A_modal,C038,command,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False,data/split/s02_A_modal_C038.wav,2.48
+s02_A_modal_C039,s02,A_modal,C039,command,What's on my agenda this morning?,What's my agenda this morning?,True,data/split/s02_A_modal_C039.wav,1.78
+s02_A_modal_C040,s02,A_modal,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s02_A_modal_C040.wav,2.15
+s02_A_modal_D001,s02,A_modal,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s02_A_modal_D001.wav,2.51
+s02_A_modal_D002,s02,A_modal,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s02_A_modal_D002.wav,3.24
+s02_A_modal_D003,s02,A_modal,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s02_A_modal_D003.wav,2.58
+s02_A_modal_D004,s02,A_modal,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s02_A_modal_D004.wav,2.52
+s02_A_modal_D005,s02,A_modal,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s02_A_modal_D005.wav,3.19
+s02_A_modal_D006,s02,A_modal,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s02_A_modal_D006.wav,2.44
+s02_A_modal_D007,s02,A_modal,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flower twice and got it wrong.,True,data/split/s02_A_modal_D007.wav,3.01
+s02_A_modal_D008,s02,A_modal,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s02_A_modal_D008.wav,2.88
+s02_A_modal_D009,s02,A_modal,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s02_A_modal_D009.wav,3.17
+s02_A_modal_D010,s02,A_modal,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s02_A_modal_D010.wav,3.02
+s02_A_modal_D011,s02,A_modal,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True,data/split/s02_A_modal_D011.wav,2.13
+s02_A_modal_D012,s02,A_modal,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s02_A_modal_D012.wav,3.55
+s02_A_modal_D013,s02,A_modal,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s02_A_modal_D013.wav,2.8
+s02_A_modal_D014,s02,A_modal,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False,data/split/s02_A_modal_D014.wav,2.9
+s02_A_modal_D015,s02,A_modal,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s02_A_modal_D015.wav,2.71
+s02_A_modal_D016,s02,A_modal,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s02_A_modal_D016.wav,2.42
+s02_A_modal_D017,s02,A_modal,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s02_A_modal_D017.wav,2.785
+s02_A_modal_D018,s02,A_modal,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s02_A_modal_D018.wav,2.66
+s02_A_modal_D019,s02,A_modal,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s02_A_modal_D019.wav,2.74
+s02_A_modal_D020,s02,A_modal,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s02_A_modal_D020.wav,3.23
+s02_A_modal_D021,s02,A_modal,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False,data/split/s02_A_modal_D021.wav,3.05
+s02_A_modal_D022,s02,A_modal,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s02_A_modal_D022.wav,3.04
+s02_A_modal_D023,s02,A_modal,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote a whole essay on a borrowed laptop.,True,data/split/s02_A_modal_D023.wav,2.38
+s02_A_modal_D024,s02,A_modal,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s02_A_modal_D024.wav,2.76
+s02_A_modal_D025,s02,A_modal,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s02_A_modal_D025.wav,2.88
+s02_A_modal_D026,s02,A_modal,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False,data/split/s02_A_modal_D026.wav,3.24
+s02_A_modal_D027,s02,A_modal,D027,declarative,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False,data/split/s02_A_modal_D027.wav,2.58
+s02_A_modal_D028,s02,A_modal,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s02_A_modal_D028.wav,2.76
+s02_A_modal_D029,s02,A_modal,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s02_A_modal_D029.wav,2.13
+s02_A_modal_D030,s02,A_modal,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False,data/split/s02_A_modal_D030.wav,2.93
+s02_A_modal_D031,s02,A_modal,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s02_A_modal_D031.wav,2.8
+s02_A_modal_D032,s02,A_modal,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False,data/split/s02_A_modal_D032.wav,2.94
+s02_A_modal_D033,s02,A_modal,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s02_A_modal_D033.wav,3.44
+s02_A_modal_D034,s02,A_modal,D034,declarative,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False,data/split/s02_A_modal_D034.wav,2.96
+s02_A_modal_D035,s02,A_modal,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s02_A_modal_D035.wav,2.67
+s02_A_modal_F001,s02,A_modal,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False,data/split/s02_A_modal_F001.wav,2.36
+s02_A_modal_F002,s02,A_modal,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s02_A_modal_F002.wav,3.015
+s02_A_modal_F003,s02,A_modal,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False,data/split/s02_A_modal_F003.wav,3.14
+s02_A_modal_F004,s02,A_modal,F004,final_fall,"He said he'd call back, but he never really did.","He said he'd call back, but he never really did.",False,data/split/s02_A_modal_F004.wav,2.78
+s02_A_modal_F005,s02,A_modal,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s02_A_modal_F005.wav,3.62
+s02_A_modal_F006,s02,A_modal,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s02_A_modal_F006.wav,2.54
+s02_A_modal_F007,s02,A_modal,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s02_A_modal_F007.wav,3.54
+s02_A_modal_F008,s02,A_modal,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s02_A_modal_F008.wav,2.075
+s02_A_modal_F009,s02,A_modal,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True,data/split/s02_A_modal_F009.wav,2.73
+s02_A_modal_F010,s02,A_modal,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s02_A_modal_F010.wav,3.01
+s02_A_modal_F011,s02,A_modal,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True,data/split/s02_A_modal_F011.wav,1.83
+s02_A_modal_F012,s02,A_modal,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat there in the car for maybe twenty minutes.,False,data/split/s02_A_modal_F012.wav,2.46
+s02_A_modal_F013,s02,A_modal,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s02_A_modal_F013.wav,2.2
+s02_A_modal_F014,s02,A_modal,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s02_A_modal_F014.wav,2.96
+s02_A_modal_F015,s02,A_modal,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s02_A_modal_F015.wav,2.88
+s02_A_modal_F016,s02,A_modal,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s02_A_modal_F016.wav,2.82
+s02_A_modal_F017,s02,A_modal,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s02_A_modal_F017.wav,3.21
+s02_A_modal_F018,s02,A_modal,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s02_A_modal_F018.wav,3.22
+s02_A_modal_F019,s02,A_modal,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s02_A_modal_F019.wav,2.94
+s02_A_modal_F020,s02,A_modal,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s02_A_modal_F020.wav,2.88
+s02_A_modal_F021,s02,A_modal,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s02_A_modal_F021.wav,2.5
+s02_A_modal_F022,s02,A_modal,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s02_A_modal_F022.wav,2.94
+s02_A_modal_F023,s02,A_modal,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s02_A_modal_F023.wav,2.78
+s02_A_modal_F024,s02,A_modal,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s02_A_modal_F024.wav,3.16
+s02_A_modal_F025,s02,A_modal,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of my entire summer.,True,data/split/s02_A_modal_F025.wav,2.96
+s02_B_natural_C001,s02,B_natural,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s02_B_natural_C001.wav,1.94
+s02_B_natural_C002,s02,B_natural,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s02_B_natural_C002.wav,1.92
+s02_B_natural_C003,s02,B_natural,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s02_B_natural_C003.wav,2.02
+s02_B_natural_C004,s02,B_natural,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s02_B_natural_C004.wav,1.79
+s02_B_natural_C005,s02,B_natural,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s02_B_natural_C005.wav,3.29
+s02_B_natural_C006,s02,B_natural,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s02_B_natural_C006.wav,2.09
+s02_B_natural_C007,s02,B_natural,C007,command,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False,data/split/s02_B_natural_C007.wav,2.66
+s02_B_natural_C008,s02,B_natural,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s02_B_natural_C008.wav,2.42
+s02_B_natural_C009,s02,B_natural,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s02_B_natural_C009.wav,1.74
+s02_B_natural_C010,s02,B_natural,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s02_B_natural_C010.wav,2.22
+s02_B_natural_C011,s02,B_natural,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s02_B_natural_C011.wav,2.26
+s02_B_natural_C012,s02,B_natural,C012,command,Send a photo to the choir group chat.,Send a photo to the choir group chat.,False,data/split/s02_B_natural_C012.wav,1.98
+s02_B_natural_C013,s02,B_natural,C013,command,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False,data/split/s02_B_natural_C013.wav,2.28
+s02_B_natural_C014,s02,B_natural,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s02_B_natural_C014.wav,2.42
+s02_B_natural_C015,s02,B_natural,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s02_B_natural_C015.wav,1.76
+s02_B_natural_C016,s02,B_natural,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s02_B_natural_C016.wav,1.76
+s02_B_natural_C017,s02,B_natural,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s02_B_natural_C017.wav,2.055
+s02_B_natural_C018,s02,B_natural,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s02_B_natural_C018.wav,2.7
+s02_B_natural_C019,s02,B_natural,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s02_B_natural_C019.wav,2.26
+s02_B_natural_C020,s02,B_natural,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s02_B_natural_C020.wav,2.1
+s02_B_natural_C021,s02,B_natural,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s02_B_natural_C021.wav,1.64
+s02_B_natural_C022,s02,B_natural,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s02_B_natural_C022.wav,2.41
+s02_B_natural_C023,s02,B_natural,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_B_natural_C023.wav,2.26
+s02_B_natural_C024,s02,B_natural,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_B_natural_C024.wav,1.98
+s02_B_natural_C025,s02,B_natural,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_B_natural_C025.wav,1.86
+s02_B_natural_C026,s02,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_B_natural_C026.wav,2.34
+s02_B_natural_C027,s02,B_natural,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_B_natural_C027.wav,2.7
+s02_B_natural_C028,s02,B_natural,C028,command,Is it going to rain this evening?,Is it gonna rain this evening?,True,data/split/s02_B_natural_C028.wav,1.26
+s02_B_natural_C029,s02,B_natural,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_B_natural_C029.wav,2.22
+s02_B_natural_C030,s02,B_natural,C030,command,Delete the last voice memo.,Delete the last voice memo.,False,data/split/s02_B_natural_C030.wav,1.66
+s02_B_natural_C031,s02,B_natural,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s02_B_natural_C031.wav,2.54
+s02_B_natural_C032,s02,B_natural,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s02_B_natural_C032.wav,2.66
+s02_B_natural_C033,s02,B_natural,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s02_B_natural_C033.wav,1.98
+s02_B_natural_C034,s02,B_natural,C034,command,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False,data/split/s02_B_natural_C034.wav,2.0
+s02_B_natural_C035,s02,B_natural,C035,command,How many days until September first?,How many days until September first?,False,data/split/s02_B_natural_C035.wav,2.51
+s02_B_natural_C036,s02,B_natural,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s02_B_natural_C036.wav,2.3
+s02_B_natural_C037,s02,B_natural,C037,command,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False,data/split/s02_B_natural_C037.wav,1.96
+s02_B_natural_C038,s02,B_natural,C038,command,Email the lab about the annotation deadline.,Email the lab about the annotation deadline.,False,data/split/s02_B_natural_C038.wav,2.63
+s02_B_natural_C039,s02,B_natural,C039,command,What's on my agenda this morning?,What's on my agenda this morning?,False,data/split/s02_B_natural_C039.wav,1.92
+s02_B_natural_C040,s02,B_natural,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s02_B_natural_C040.wav,2.2
+s02_B_natural_D001,s02,B_natural,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s02_B_natural_D001.wav,2.92
+s02_B_natural_D002,s02,B_natural,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s02_B_natural_D002.wav,2.88
+s02_B_natural_D003,s02,B_natural,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s02_B_natural_D003.wav,2.75
+s02_B_natural_D004,s02,B_natural,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s02_B_natural_D004.wav,2.78
+s02_B_natural_D005,s02,B_natural,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s02_B_natural_D005.wav,2.55
+s02_B_natural_D006,s02,B_natural,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s02_B_natural_D006.wav,2.71
+s02_B_natural_D007,s02,B_natural,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False,data/split/s02_B_natural_D007.wav,2.68
+s02_B_natural_D008,s02,B_natural,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s02_B_natural_D008.wav,2.8
+s02_B_natural_D009,s02,B_natural,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s02_B_natural_D009.wav,3.08
+s02_B_natural_D010,s02,B_natural,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s02_B_natural_D010.wav,3.31
+s02_B_natural_D011,s02,B_natural,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crates.,False,data/split/s02_B_natural_D011.wav,3.19
+s02_B_natural_D012,s02,B_natural,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s02_B_natural_D012.wav,2.88
+s02_B_natural_D013,s02,B_natural,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s02_B_natural_D013.wav,2.98
+s02_B_natural_D014,s02,B_natural,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False,data/split/s02_B_natural_D014.wav,2.58
+s02_B_natural_D015,s02,B_natural,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s02_B_natural_D015.wav,3.5
+s02_B_natural_D016,s02,B_natural,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s02_B_natural_D016.wav,2.68
+s02_B_natural_D017,s02,B_natural,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s02_B_natural_D017.wav,2.23
+s02_B_natural_D018,s02,B_natural,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s02_B_natural_D018.wav,2.94
+s02_B_natural_D019,s02,B_natural,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s02_B_natural_D019.wav,2.82
+s02_B_natural_D020,s02,B_natural,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s02_B_natural_D020.wav,3.02
+s02_B_natural_D021,s02,B_natural,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False,data/split/s02_B_natural_D021.wav,3.2
+s02_B_natural_D022,s02,B_natural,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s02_B_natural_D022.wav,2.92
+s02_B_natural_D023,s02,B_natural,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False,data/split/s02_B_natural_D023.wav,2.92
+s02_B_natural_D024,s02,B_natural,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s02_B_natural_D024.wav,2.68
+s02_B_natural_D025,s02,B_natural,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s02_B_natural_D025.wav,2.78
+s02_B_natural_D026,s02,B_natural,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the val.,True,data/split/s02_B_natural_D026.wav,2.7
+s02_B_natural_D027,s02,B_natural,D027,declarative,The tailor pinned the hem with practiced fingers.,The tailor pinned the hem with practiced fingers.,False,data/split/s02_B_natural_D027.wav,3.01
+s02_B_natural_D028,s02,B_natural,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s02_B_natural_D028.wav,2.37
+s02_B_natural_D029,s02,B_natural,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s02_B_natural_D029.wav,2.58
+s02_B_natural_D030,s02,B_natural,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False,data/split/s02_B_natural_D030.wav,3.28
+s02_B_natural_D031,s02,B_natural,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s02_B_natural_D031.wav,4.04
+s02_B_natural_D032,s02,B_natural,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False,data/split/s02_B_natural_D032.wav,2.47
+s02_B_natural_D033,s02,B_natural,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s02_B_natural_D033.wav,2.88
+s02_B_natural_D034,s02,B_natural,D034,declarative,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False,data/split/s02_B_natural_D034.wav,7.52
+s02_B_natural_D035,s02,B_natural,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s02_B_natural_D035.wav,3.21
+s02_B_natural_F001,s02,B_natural,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False,data/split/s02_B_natural_F001.wav,3.3
+s02_B_natural_F002,s02,B_natural,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s02_B_natural_F002.wav,3.19
+s02_B_natural_F003,s02,B_natural,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False,data/split/s02_B_natural_F003.wav,3.18
+s02_B_natural_F004,s02,B_natural,F004,final_fall,"He said he'd call back, but he never really did.","He said he'd call back, but he never did.",True,data/split/s02_B_natural_F004.wav,2.02
+s02_B_natural_F005,s02,B_natural,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s02_B_natural_F005.wav,3.42
+s02_B_natural_F006,s02,B_natural,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s02_B_natural_F006.wav,2.26
+s02_B_natural_F007,s02,B_natural,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s02_B_natural_F007.wav,3.14
+s02_B_natural_F008,s02,B_natural,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s02_B_natural_F008.wav,2.77
+s02_B_natural_F009,s02,B_natural,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True,data/split/s02_B_natural_F009.wav,2.4
+s02_B_natural_F010,s02,B_natural,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s02_B_natural_F010.wav,3.3
+s02_B_natural_F011,s02,B_natural,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True,data/split/s02_B_natural_F011.wav,1.73
+s02_B_natural_F012,s02,B_natural,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True,data/split/s02_B_natural_F012.wav,3.1
+s02_B_natural_F013,s02,B_natural,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s02_B_natural_F013.wav,2.34
+s02_B_natural_F014,s02,B_natural,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s02_B_natural_F014.wav,3.0
+s02_B_natural_F015,s02,B_natural,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s02_B_natural_F015.wav,2.6
+s02_B_natural_F016,s02,B_natural,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s02_B_natural_F016.wav,2.47
+s02_B_natural_F017,s02,B_natural,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s02_B_natural_F017.wav,2.645
+s02_B_natural_F018,s02,B_natural,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s02_B_natural_F018.wav,3.35
+s02_B_natural_F019,s02,B_natural,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s02_B_natural_F019.wav,2.5
+s02_B_natural_F020,s02,B_natural,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s02_B_natural_F020.wav,3.0
+s02_B_natural_F021,s02,B_natural,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s02_B_natural_F021.wav,3.18
+s02_B_natural_F022,s02,B_natural,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s02_B_natural_F022.wav,2.94
+s02_B_natural_F023,s02,B_natural,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s02_B_natural_F023.wav,3.1
+s02_B_natural_F024,s02,B_natural,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s02_B_natural_F024.wav,2.81
+s02_B_natural_F025,s02,B_natural,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False,data/split/s02_B_natural_F025.wav,2.42
+s02_C_creak_C001,s02,C_creak,C001,command,Set a timer for twelve minutes.,Set a timer for twelve minutes.,False,data/split/s02_C_creak_C001.wav,2.0
+s02_C_creak_C002,s02,C_creak,C002,command,Text Marcus that I'm running late.,Text Marcus that I'm running late.,False,data/split/s02_C_creak_C002.wav,2.42
+s02_C_creak_C003,s02,C_creak,C003,command,What's the weather in Newton tomorrow?,What's the weather in Newton tomorrow?,False,data/split/s02_C_creak_C003.wav,2.66
+s02_C_creak_C004,s02,C_creak,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s02_C_creak_C004.wav,2.14
+s02_C_creak_C005,s02,C_creak,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s02_C_creak_C005.wav,3.0
+s02_C_creak_C006,s02,C_creak,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s02_C_creak_C006.wav,2.65
+s02_C_creak_C007,s02,C_creak,C007,command,Add oat milk to my grocery list.,Add oat milk to my grocery list.,False,data/split/s02_C_creak_C007.wav,2.75
+s02_C_creak_C008,s02,C_creak,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s02_C_creak_C008.wav,2.62
+s02_C_creak_C009,s02,C_creak,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s02_C_creak_C009.wav,2.06
+s02_C_creak_C010,s02,C_creak,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s02_C_creak_C010.wav,2.65
+s02_C_creak_C011,s02,C_creak,C011,command,Navigate to Grand Central Terminal.,Navigate to Grand Central Terminal.,False,data/split/s02_C_creak_C011.wav,1.97
+s02_C_creak_C012,s02,C_creak,C012,command,Send a photo to the choir group chat.,Send a photo of the choir group chat.,True,data/split/s02_C_creak_C012.wav,2.48
+s02_C_creak_C013,s02,C_creak,C013,command,Show me my calendar for next Thursday.,Show me my calendar for next Thursday.,False,data/split/s02_C_creak_C013.wav,2.82
+s02_C_creak_C014,s02,C_creak,C014,command,Convert eighty degrees Fahrenheit to Celsius.,Convert eighty degrees Fahrenheit to Celsius.,False,data/split/s02_C_creak_C014.wav,4.92
+s02_C_creak_C015,s02,C_creak,C015,command,Skip to the next song.,Skip to the next song.,False,data/split/s02_C_creak_C015.wav,1.76
+s02_C_creak_C016,s02,C_creak,C016,command,What's the score of the Mets game?,What's the score of the Mets game?,False,data/split/s02_C_creak_C016.wav,2.15
+s02_C_creak_C017,s02,C_creak,C017,command,Set an alarm for six forty-five.,Set an alarm for six forty-five.,False,data/split/s02_C_creak_C017.wav,2.22
+s02_C_creak_C018,s02,C_creak,C018,command,Find a ramen place open past midnight.,Find a ramen place open past midnight.,False,data/split/s02_C_creak_C018.wav,2.9
+s02_C_creak_C019,s02,C_creak,C019,command,Read my last message from Anjali.,Read my last message from Anjali.,False,data/split/s02_C_creak_C019.wav,2.72
+s02_C_creak_C020,s02,C_creak,C020,command,How do you say thank you in Japanese?,How do you say thank you in Japanese?,False,data/split/s02_C_creak_C020.wav,2.65
+s02_C_creak_C021,s02,C_creak,C021,command,Start a workout on my watch.,Start a workout on my watch.,False,data/split/s02_C_creak_C021.wav,2.36
+s02_C_creak_C022,s02,C_creak,C022,command,Cancel my reminder about the dentist.,Cancel my reminder about the dentist.,False,data/split/s02_C_creak_C022.wav,2.86
+s02_C_creak_C023,s02,C_creak,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_C_creak_C023.wav,2.53
+s02_C_creak_C024,s02,C_creak,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_C_creak_C024.wav,2.81
+s02_C_creak_C025,s02,C_creak,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_C_creak_C025.wav,1.29
+s02_C_creak_C026,s02,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_C_creak_C026.wav,3.08
+s02_C_creak_C027,s02,C_creak,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_C_creak_C027.wav,2.83
+s02_C_creak_C028,s02,C_creak,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s02_C_creak_C028.wav,2.7
+s02_C_creak_C029,s02,C_creak,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_C_creak_C029.wav,2.4
+s02_C_creak_C030,s02,C_creak,C030,command,Delete the last voice memo.,Delete the last voice memo.,False,data/split/s02_C_creak_C030.wav,2.43
+s02_C_creak_C031,s02,C_creak,C031,command,What's the fastest way to Morningside Heights?,What's the fastest way to Morningside Heights?,False,data/split/s02_C_creak_C031.wav,3.02
+s02_C_creak_C032,s02,C_creak,C032,command,Add a wisteria trellis to my shopping list.,Add a wisteria trellis to my shopping list.,False,data/split/s02_C_creak_C032.wav,2.84
+s02_C_creak_C033,s02,C_creak,C033,command,Tell me a joke about linguists.,Tell me a joke about linguists.,False,data/split/s02_C_creak_C033.wav,2.23
+s02_C_creak_C034,s02,C_creak,C034,command,Show me photos from Cape Cod.,Show me photos from Cape Cod.,False,data/split/s02_C_creak_C034.wav,2.33
+s02_C_creak_C035,s02,C_creak,C035,command,How many days until September first?,How many days until September first?,False,data/split/s02_C_creak_C035.wav,2.47
+s02_C_creak_C036,s02,C_creak,C036,command,Turn on do not disturb until noon.,Turn on do not disturb until noon.,False,data/split/s02_C_creak_C036.wav,2.68
+s02_C_creak_C037,s02,C_creak,C037,command,Where is the nearest pharmacy?,Where is the nearest pharmacy?,False,data/split/s02_C_creak_C037.wav,2.14
+s02_C_creak_C038,s02,C_creak,C038,command,Email the lab about the annotation deadline.,Mail the lab about the annotation deadline.,True,data/split/s02_C_creak_C038.wav,1.99
+s02_C_creak_C039,s02,C_creak,C039,command,What's on my agenda this morning?,What's on my agenda this morning?,False,data/split/s02_C_creak_C039.wav,1.99
+s02_C_creak_C040,s02,C_creak,C040,command,Play white noise for thirty minutes.,Play white noise for thirty minutes.,False,data/split/s02_C_creak_C040.wav,2.38
+s02_C_creak_D001,s02,C_creak,D001,declarative,The old bridge groaned under the weight of the truck.,The old bridge groaned under the weight of the truck.,False,data/split/s02_C_creak_D001.wav,3.12
+s02_C_creak_D002,s02,C_creak,D002,declarative,She poured the vinegar into a shallow glass dish.,She poured the vinegar into a shallow glass dish.,False,data/split/s02_C_creak_D002.wav,3.58
+s02_C_creak_D003,s02,C_creak,D003,declarative,Seven zebras wandered across the dusty road.,Seven zebras wandered across the dusty road.,False,data/split/s02_C_creak_D003.wav,3.08
+s02_C_creak_D004,s02,C_creak,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s02_C_creak_D004.wav,3.1
+s02_C_creak_D005,s02,C_creak,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s02_C_creak_D005.wav,2.87
+s02_C_creak_D006,s02,C_creak,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s02_C_creak_D006.wav,2.86
+s02_C_creak_D007,s02,C_creak,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and still got it wrong.,False,data/split/s02_C_creak_D007.wav,3.02
+s02_C_creak_D008,s02,C_creak,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s02_C_creak_D008.wav,3.49
+s02_C_creak_D009,s02,C_creak,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s02_C_creak_D009.wav,3.32
+s02_C_creak_D010,s02,C_creak,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s02_C_creak_D010.wav,3.5
+s02_C_creak_D011,s02,C_creak,D011,declarative,They shipped the equipment in reinforced crates.,They shipped the equipment in reinforced crate.,True,data/split/s02_C_creak_D011.wav,3.46
+s02_C_creak_D012,s02,C_creak,D012,declarative,The tide pulled the small boat toward the rocks.,The tide pulled the small boat towards the rocks.,True,data/split/s02_C_creak_D012.wav,2.96
+s02_C_creak_D013,s02,C_creak,D013,declarative,Cinnamon and cloves filled the kitchen with warmth.,Cinnamon and cloves filled the kitchen with warmth.,False,data/split/s02_C_creak_D013.wav,3.13
+s02_C_creak_D014,s02,C_creak,D014,declarative,Nobody remembered who had locked the back door.,Nobody remembered who had locked the back door.,False,data/split/s02_C_creak_D014.wav,3.4
+s02_C_creak_D015,s02,C_creak,D015,declarative,The librarian stamped each card with quiet precision.,The librarian stamped each card with quiet precision.,False,data/split/s02_C_creak_D015.wav,3.3
+s02_C_creak_D016,s02,C_creak,D016,declarative,Wet leaves clogged the gutter above the window.,Wet leaves clogged the gutter above the window.,False,data/split/s02_C_creak_D016.wav,3.1
+s02_C_creak_D017,s02,C_creak,D017,declarative,I bought a secondhand bicycle for forty dollars.,I bought a secondhand bicycle for forty dollars.,False,data/split/s02_C_creak_D017.wav,2.57
+s02_C_creak_D018,s02,C_creak,D018,declarative,The mountain village looked empty in the photograph.,The mountain village looked empty in the photograph.,False,data/split/s02_C_creak_D018.wav,2.86
+s02_C_creak_D019,s02,C_creak,D019,declarative,Three sparrows fought over a crust of bread.,Three sparrows fought over a crust of bread.,False,data/split/s02_C_creak_D019.wav,2.99
+s02_C_creak_D020,s02,C_creak,D020,declarative,His youngest brother plays trumpet in the marching band.,His youngest brother plays trumpet in the marching band.,False,data/split/s02_C_creak_D020.wav,3.29
+s02_C_creak_D021,s02,C_creak,D021,declarative,"The recipe called for saffron, which we could not find.","The recipe called for saffron, which we could not find.",False,data/split/s02_C_creak_D021.wav,3.63
+s02_C_creak_D022,s02,C_creak,D022,declarative,Snow buried the fence posts by early January.,Snow buried the fence posts by early January.,False,data/split/s02_C_creak_D022.wav,3.53
+s02_C_creak_D023,s02,C_creak,D023,declarative,She wrote the whole essay on a borrowed laptop.,She wrote the whole essay on a borrowed laptop.,False,data/split/s02_C_creak_D023.wav,3.1
+s02_C_creak_D024,s02,C_creak,D024,declarative,The engine coughed once and then went silent.,The engine coughed once and then went silent.,False,data/split/s02_C_creak_D024.wav,3.26
+s02_C_creak_D025,s02,C_creak,D025,declarative,Amber light spilled across the polished floorboards.,Amber light spilled across the polished floorboards.,False,data/split/s02_C_creak_D025.wav,3.34
+s02_C_creak_D026,s02,C_creak,D026,declarative,We watched the storm move east across the valley.,We watched the storm move east across the valley.,False,data/split/s02_C_creak_D026.wav,2.68
+s02_C_creak_D027,s02,C_creak,D027,declarative,The tailor pinned the hem with practiced fingers.,Int the tailor pinned the hem with practiced fingers.,True,data/split/s02_C_creak_D027.wav,3.77
+s02_C_creak_D028,s02,C_creak,D028,declarative,Salt crusted the windows of the beach house.,Salt crusted the windows of the beach house.,False,data/split/s02_C_creak_D028.wav,3.0
+s02_C_creak_D029,s02,C_creak,D029,declarative,Their apartment smelled faintly of turpentine.,Their apartment smelled faintly of turpentine.,False,data/split/s02_C_creak_D029.wav,2.98
+s02_C_creak_D030,s02,C_creak,D030,declarative,A heron stood motionless at the edge of the pond.,A heron stood motionless at the edge of the pond.,False,data/split/s02_C_creak_D030.wav,3.3
+s02_C_creak_D031,s02,C_creak,D031,declarative,The clock in the hallway runs about four minutes fast.,The clock in the hallway runs about four minutes fast.,False,data/split/s02_C_creak_D031.wav,3.58
+s02_C_creak_D032,s02,C_creak,D032,declarative,He folded the newspaper and set it on the table.,He folded the newspaper and set it on the table.,False,data/split/s02_C_creak_D032.wav,3.2
+s02_C_creak_D033,s02,C_creak,D033,declarative,Bright green algae covered the surface of the water.,Bright green algae covered the surface of the water.,False,data/split/s02_C_creak_D033.wav,3.64
+s02_C_creak_D034,s02,C_creak,D034,declarative,The children traded stickers during the long bus ride.,The children traded stickers during the long bus ride.,False,data/split/s02_C_creak_D034.wav,3.63
+s02_C_creak_D035,s02,C_creak,D035,declarative,Rain hammered the tin roof for most of the night.,Rain hammered the tin roof for most of the night.,False,data/split/s02_C_creak_D035.wav,3.32
+s02_C_creak_F001,s02,C_creak,F001,final_fall,"I don't really know what she was thinking, honestly.","I don't really know what she was thinking, honestly.",False,data/split/s02_C_creak_F001.wav,3.34
+s02_C_creak_F002,s02,C_creak,F002,final_fall,"We ended up walking the whole way home, anyway.","We ended up walking the whole way home, anyway.",False,data/split/s02_C_creak_F002.wav,3.14
+s02_C_creak_F003,s02,C_creak,F003,final_fall,It was one of those afternoons where nothing happened at all.,It was one of those afternoons where nothing happened at all.,False,data/split/s02_C_creak_F003.wav,3.76
+s02_C_creak_F004,s02,C_creak,F004,final_fall,"He said he'd call back, but he never really did.","He said that he'd call back, but he never really did.",True,data/split/s02_C_creak_F004.wav,3.59
+s02_C_creak_F005,s02,C_creak,F005,final_fall,"The whole thing fell apart before anyone noticed, apparently.","The whole thing fell apart before anyone noticed, apparently.",False,data/split/s02_C_creak_F005.wav,3.21
+s02_C_creak_F006,s02,C_creak,F006,final_fall,I guess that's just how it goes sometimes.,I guess that's just how it goes sometimes.,False,data/split/s02_C_creak_F006.wav,2.48
+s02_C_creak_F007,s02,C_creak,F007,final_fall,She left the party early and nobody said anything.,She left the party early and nobody said anything.,False,data/split/s02_C_creak_F007.wav,4.44
+s02_C_creak_F008,s02,C_creak,F008,final_fall,"It's not that I mind, it's just kind of strange.","It's not that I mind, it's just kind of strange.",False,data/split/s02_C_creak_F008.wav,3.63
+s02_C_creak_F009,s02,C_creak,F009,final_fall,They moved out to Oregon a couple of years ago.,They moved out to Oregon a couple years ago.,True,data/split/s02_C_creak_F009.wav,2.92
+s02_C_creak_F010,s02,C_creak,F010,final_fall,"Nothing about that story adds up, if you think about it.","Nothing about that story adds up, if you think about it.",False,data/split/s02_C_creak_F010.wav,3.58
+s02_C_creak_F011,s02,C_creak,F011,final_fall,I'd been meaning to write back for a while now.,I've been meaning to write back for a while now.,True,data/split/s02_C_creak_F011.wav,2.35
+s02_C_creak_F012,s02,C_creak,F012,final_fall,We sat there in the car for maybe twenty minutes.,We sat in the car for maybe 20 minutes.,True,data/split/s02_C_creak_F012.wav,2.75
+s02_C_creak_F013,s02,C_creak,F013,final_fall,He's been doing that same job for eleven years.,He's been doing that same job for eleven years.,False,data/split/s02_C_creak_F013.wav,3.3
+s02_C_creak_F014,s02,C_creak,F014,final_fall,It rained the entire week we were on the island.,It rained the entire week we were on the island.,False,data/split/s02_C_creak_F014.wav,2.67
+s02_C_creak_F015,s02,C_creak,F015,final_fall,"I never learned how to swim, which is embarrassing.","I never learned how to swim, which is embarrassing.",False,data/split/s02_C_creak_F015.wav,3.46
+s02_C_creak_F016,s02,C_creak,F016,final_fall,That's pretty much all anyone talked about afterward.,That's pretty much all anyone talked about afterward.,False,data/split/s02_C_creak_F016.wav,3.36
+s02_C_creak_F017,s02,C_creak,F017,final_fall,She kept apologizing even though it wasn't her fault.,She kept apologizing even though it wasn't her fault.,False,data/split/s02_C_creak_F017.wav,3.38
+s02_C_creak_F018,s02,C_creak,F018,final_fall,"The apartment was smaller than we expected, obviously.","The apartment was smaller than we expected, obviously.",False,data/split/s02_C_creak_F018.wav,3.42
+s02_C_creak_F019,s02,C_creak,F019,final_fall,I think I left my keys somewhere in the stairwell.,I think I left my keys somewhere in the stairwell.,False,data/split/s02_C_creak_F019.wav,3.24
+s02_C_creak_F020,s02,C_creak,F020,final_fall,"It turned out fine, more or less, in the end.","It turned out fine, more or less, in the end.",False,data/split/s02_C_creak_F020.wav,3.38
+s02_C_creak_F021,s02,C_creak,F021,final_fall,Nobody warned us about the traffic on the way in.,Nobody warned us about the traffic on the way in.,False,data/split/s02_C_creak_F021.wav,3.75
+s02_C_creak_F022,s02,C_creak,F022,final_fall,He mentioned it once and then never brought it up again.,He mentioned it once and then never brought it up again.,False,data/split/s02_C_creak_F022.wav,3.3
+s02_C_creak_F023,s02,C_creak,F023,final_fall,We were both too tired to argue about it anymore.,We were both too tired to argue about it anymore.,False,data/split/s02_C_creak_F023.wav,3.46
+s02_C_creak_F024,s02,C_creak,F024,final_fall,I've been putting that conversation off for months.,I've been putting that conversation off for months.,False,data/split/s02_C_creak_F024.wav,3.08
+s02_C_creak_F025,s02,C_creak,F025,final_fall,It felt like the longest week of the entire summer.,It felt like the longest week of the entire summer.,False,data/split/s02_C_creak_F025.wav,2.86
