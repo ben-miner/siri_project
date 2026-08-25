@@ -1,0 +1,11 @@
+utt_id,pass,shr_median,f0_mean_hz,f0_tracking_failed,wav_path,window_start_sec,window_end_sec,n_pulses,f0_hand_hz,amplitude_alternation,notes,ratio,region_type
+s02_C_creak_D004,C_creak,0.6247306970397284,89.71784175418249,TRUE,data/split/s02_C_creak_D004.wav,2.714,2.872,10,56.198,TRUE,,1.596459692,creak
+s02_C_creak_F014,C_creak,0.611382907,63.006580106269325,TRUE,data/split/s02_C_creak_F014.wav,2.337,2.545,10,43.147,TRUE,,1.460277194,creak
+s02_C_creak_F023,C_creak,0.5087605011143018,280.7350471987681,TRUE,data/split/s02_C_creak_F023.wav,1.8296,1.9406,9,72.04,TRUE,,3.896932915,creak
+s02_C_creak_F011,C_creak,0.5080060782294998,67.71970666,TRUE,data/split/s02_C_creak_F011.wav,1.7,1.905,10,48.777,TRUE,,1.388353254,creak
+s02_C_creak_C015,C_creak,0.6581422412151081,53.67801282779277,FALSE,data/split/s02_C_creak_C015.wav,1.519,1.75,10,43.238,TRUE,,1.241454573,creak
+s02_C_creak_D026,C_creak,0.6189440975205699,605.6226213665633,FALSE,data/split/s02_C_creak_D026.wav,2.387,2.612,10,44.469,TRUE,,13.61898449,creak
+s02_B_natural_D019,B_natural,0.5693570180992258,115.8339187563125,FALSE,data/split/s02_B_natural_D019.wav,2.648,2.801,11,71.723,TRUE,,1.615017759,phrase_final_creak
+s02_B_natural_D033,B_natural,0.41913011372776354,120.30246584215973,FALSE,data/split/s02_B_natural_D033.wav,1.2044,1.3795,28,159.974,FALSE,,0.752012614,modal
+s01_A_modal_C014,A_modal,0.1474584602409505,134.78607779022366,FALSE,data/split/s01_A_modal_C014.wav,1.5014,1.6536,25,164.26,FALSE,,0.820565432,modal
+s01_A_modal_F008,A_modal,0.2147926263336027,134.88308148938148,FALSE,data/split/s01_A_modal_F008.wav,1.497,1.569,10,139.063,FALSE,,0.969942267,modal
