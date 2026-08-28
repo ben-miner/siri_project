@@ -6,8 +6,10 @@ on-device SpeechTranscriber. Single speaker (the author), scripted stimuli,
 # Environment
 - Windows 11, Python 3.11 (conda env `phonpipe`), VSCode.
 - Use pathlib. Never hardcode backslashes.
-- swift/ targets macOS 26 and is built elsewhere. NEVER try to build or run
-  it from Windows.
+- swift/ targets macOS Sequoia 15.7.9 on an Intel iMac (2019) -- not macOS
+  26, which this hardware can't run (so no SpeechAnalyzer; CreakASR uses
+  SFSpeechRecognizer instead, see swift/README.md). Built elsewhere.
+  NEVER try to build or run it from Windows.
 - ../- "C:\Users\benmi\PhonPhon Squib" (package `phonpipe`, installed editable
   into this conda env) is an existing validated tool of mine. Read its
   README and phonpipe/measures/creak.py before writing any acoustic
