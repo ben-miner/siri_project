@@ -6,4 +6,5 @@ numpy
 statsmodels
 matplotlib
 pyyaml
+praatio
 pytest

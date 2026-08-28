@@ -1,0 +1,4 @@
+A segment is accepted as creaky if:
+- it sounds like creak
+- it has at least 3 irregular pulses
+- it has irregular waveforms (tall, short, tall, short, etc. )

@@ -1,0 +1,119 @@
+# Sonorant phone labels for MFA's `english_mfa` acoustic model (the model
+# used throughout this project -- see src/06_measure.py). Used to restrict
+# creak annotation to sonorant segments: White, Penney, Gibson, Szakay &
+# Cox (2022) found this improves automatic creak-detection accuracy, and
+# phonpipe applies the same restriction to its own SHR/H1-H2 measures via
+# sonorant_intervals() (phonpipe/measures/creak.py).
+#
+# Base set mirrors phonpipe's SONORANTS constant (phonpipe/measures/creak.py,
+# commit f74fe22) as a separate, project-owned, version-controlled copy --
+# NOT imported from phonpipe at runtime, so this list stays fixed regardless
+# of future phonpipe changes.
+#
+# EXTENDED beyond phonpipe's set with 11 labels confirmed sonorant by direct
+# inspection of every phone label appearing in this project's own MFA output
+# (data/textgrids/mfa/, all 600 utterances -- checked 2026-08, see
+# src/08b_prepare_grids.py's development): a syllabic nasal (m̩), a
+# palatalized nasal (mʲ), dark l (ɫ), two rhotacized vowels (ɚ, ɝ),
+# three long vowels (ɑː, ɒː, ʉː), and two diphthongs using a j/w-offglide
+# transcription convention (ɔj, əw) that phonpipe's set only partially
+# covered. Without this extension, sonorant_intervals() below would silently
+# skip these phones' intervals -- fewer creak-annotation opportunities than
+# intended, not a difference the annotator could see. This is a real,
+# separate gap in phonpipe's own SONORANTS set too (it restricts phonpipe's
+# Stage 6 SHR/H1-H2 creak measures the same way); not fixed there as part of
+# this task, flagged for a future phonpipe patch.
+#
+# This file mirrors config/thresholds.yaml's convention: frozen once
+# committed. Extending it (e.g. a new phone label MFA starts producing)
+# should be a deliberate, documented change, not a silent edit.
+sonorants:
+  - a
+  - aj
+  - aw
+  - aɪ
+  - aʊ
+  - aː
+  - e
+  - ej
+  - eɪ
+  - eː
+  - i
+  - iː
+  - j
+  - l
+  - m
+  - mʲ
+  - mː
+  - m̩
+  - n
+  - nː
+  - o
+  - oj
+  - ow
+  - oʊ
+  - oː
+  - r
+  - u
+  - uː
+  - w
+  - y
+  - ã
+  - æ
+  - æː
+  - õ
+  - ø
+  - ĩ
+  - ŋ
+  - ŋː
+  - œ
+  - ũ
+  - ɐ
+  - ɑ
+  - ɑː
+  - ɒ
+  - ɒː
+  - ɔ
+  - ɔj
+  - ɔɪ
+  - ɔː
+  - ɘ
+  - ə
+  - əw
+  - ɚ
+  - ɛ
+  - ɛː
+  - ɜ
+  - ɜː
+  - ɝ
+  - ɞ
+  - ɤ
+  - ɨ
+  - ɪ
+  - ɪː
+  - ɫ
+  - ɭ
+  - ɯ
+  - ɯː
+  - ɰ
+  - ɱ
+  - ɲ
+  - ɳ
+  - ɴ
+  - ɵ
+  - ɶ
+  - ɹ
+  - ɻ
+  - ɽ
+  - ɾ
+  - ʀ
+  - ʉ
+  - ʉː
+  - ʊ
+  - ʊː
+  - ʋ
+  - ʌ
+  - ʎ
+  - ʏ
+  - ʟ
+  - ẽ
