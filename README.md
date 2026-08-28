@@ -23,9 +23,16 @@ output to `results/` (CSV) or `data/` and prints a one-line summary.
 | 6d | `06d_version_diff.py` | Diff two `acoustics_joined.csv` runs (e.g. before/after a phonpipe fix) across every measure, flagging sign changes separately. |
 | 6e | `06e_select_validation_sample.py` | Select a stratified 10-utterance sample for hand validation of phonpipe's F0. |
 | 7 | `07_calibration.py` | Build the empirical calibration reference from `data/calibration/` clips (creak_cal, sustained_a, roomtone, etc). |
+| 8a | `08a_select_annotation_sample.py` | Select a 60-utterance sample stratified on phonpipe's creak proportion (terciles × pass), blind to condition/estimate. |
+| 8b | `08b_prepare_grids.py` | Copy each sampled TextGrid, add an empty sonorant-boundary `creak` tier, and pair blind-named grids/audio for hand annotation. |
+| 8c | `08c_compute_proportions.py` | Validate the completed hand annotation against the phone tier, compute token-weighted `hand_creak_proportion`, correlate against phonpipe. |
+| 8d | `08d_tune_thresholds.py` | Grid-search per-token creak thresholds against the hand annotation; prints (never writes) the winning config. |
 
 `manifest.csv`/`acoustics_joined.csv` are keyed on `utt_id` throughout —
-see CLAUDE.md's non-negotiables.
+see CLAUDE.md's non-negotiables. `config/thresholds.yaml` is Stage 8d's
+output, pasted and committed by hand per that script's print-only
+convention; see the file's own header for the frozen values and the
+negative results (H1-H2) behind them.
 
 ## Environment
 
@@ -110,3 +117,18 @@ call and the full path under `conda run -n phonpipe python`.)
   creak, which is more extreme than creak within running speech), so some
   fraction of the 63 may reflect real milder tokens near a fuzzy boundary
   rather than a defect — that per-file judgment has not been made.
+
+- **Per-token H1-H2 has no discriminative power for creak.** Stage 8d's
+  grid search against 60 hand-annotated utterances (1077 sonorant tokens)
+  found H1-H2's best token-level F1 (0.349) exactly equals the trivial
+  "always predict creaky" baseline, confirmed non-degenerate under
+  widened grids (-30 to +40 dB) and unrelated to the point above — 63% of
+  tokens returned NaN outright (`measure_tilt()` failing on spans under
+  ~60ms), and even where it succeeds, a single token's spectral tilt
+  estimate is far noisier than an utterance-level mean across many
+  tokens. `h1_h2_db` is excluded from `config/thresholds.yaml` as a
+  result. Whatever signal H1-H2 carries about creak in this corpus is
+  only recoverable as an utterance-level aggregate — it correlates
+  r=0.772 with phonpipe's `creak_doubling_rate` (Stage 8c,
+  `results/annotation_vs_phonpipe.png`) — not from a single token's own
+  span.
