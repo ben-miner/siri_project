@@ -1,0 +1,34 @@
+# Creak detection thresholds for siri_project
+# FROZEN 2026-08-24. Do not modify.
+#
+# Tuned against 60 hand-annotated utterances (1077 sonorant tokens,
+# 268 labelled creaky), stratified across the creak-proportion range.
+# Annotation was blind to phonpipe estimates and condition labels.
+# Grid search maximised token-level F1 per component independently.
+
+shr_doubling: 0.38
+low_f0_hz: 108.6
+jitter_irregularity_pct: 2.3
+
+# --- Derivation and negative results ---
+#
+# low_f0_hz: expressed in Hz rather than as a percentile of the A_modal
+#   reference distribution. F1 is flat at 0.470 across the entire plateau
+#   108.58-108.67 Hz (percentiles 0.001% to 0.02%), declining from 0.03%
+#   (108.72 Hz) upward. The production grid floor is 0.01% (108.62 Hz);
+#   percentiles below that were checked by hand and add no resolution,
+#   since the reference set holds only 200 values. The Hz cutoff is the
+#   determined quantity — the percentile is a derived artifact of it and
+#   would shift if the reference set changed size. 108.6 sits within
+#   0.1 Hz of the whole plateau.
+#
+# h1_h2_db: EXCLUDED. Tuning was degenerate at token level — F1 0.349 equals
+#   the trivial "always predict creaky" baseline (recall 1.000, precision
+#   0.211), and 63% of tokens returned NaN, concentrated in tokens under
+#   ~60ms. Retained here as a documented negative result, not an active
+#   threshold. See README limitations.
+#
+# Per-component recall by pass (A_modal / B_natural / C_creak):
+#   shr_doubling             0.625 / 0.757 / 0.795
+#   jitter_irregularity_pct  0.857 / 0.652 / 0.826
+#   low_f0_hz                0.375 / 0.893 / 0.524
