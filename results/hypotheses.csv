@@ -1,0 +1,601 @@
+utt_id,hypothesis,os_version,recognizer,elapsed_ms
+s01_A_modal_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,11542.7
+s01_A_modal_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,1540.4
+s01_A_modal_C003,What's the weather in Newton tomorrow,15.7.9,SFSpeechRecognizer,1251.7
+s01_A_modal_C004,Play the new Noah Kahan album,15.7.9,SFSpeechRecognizer,1326.7
+s01_A_modal_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1212.1
+s01_A_modal_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,1612.4
+s01_A_modal_C007,Add oat milk to my grocery list grocery list,15.7.9,SFSpeechRecognizer,1397.1
+s01_A_modal_C008,Call the gelato shop in Orchard,15.7.9,SFSpeechRecognizer,1626.3
+s01_A_modal_C009,Turn off the bedroom light,15.7.9,SFSpeechRecognizer,969.1
+s01_A_modal_C010,What time does the library close today,15.7.9,SFSpeechRecognizer,1033.4
+s01_A_modal_C011,Navigate to Grand Central term,15.7.9,SFSpeechRecognizer,1358.1
+s01_A_modal_C012,Send a photo to the choir group,15.7.9,SFSpeechRecognizer,1192.2
+s01_A_modal_C013,Show me a calendar for next,15.7.9,SFSpeechRecognizer,1097.7
+s01_A_modal_C014,Convert 80°F to Celsius,15.7.9,SFSpeechRecognizer,1553.7
+s01_A_modal_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,1461.6
+s01_A_modal_C016,What's the score of the Mets game,15.7.9,SFSpeechRecognizer,1213.6
+s01_A_modal_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,1044.7
+s01_A_modal_C018,Find a Ramen place open past midnight,15.7.9,SFSpeechRecognizer,1185.4
+s01_A_modal_C019,Read my message list read my last message from,15.7.9,SFSpeechRecognizer,1621.7
+s01_A_modal_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,1196.8
+s01_A_modal_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,1069.4
+s01_A_modal_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1005.5
+s01_A_modal_C023,Take a note about the pitch analytes,15.7.9,SFSpeechRecognizer,1186.2
+s01_A_modal_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,913.1
+s01_A_modal_C025,Turn the volume down a,15.7.9,SFSpeechRecognizer,654.9
+s01_A_modal_C026,Open the Pratt documentation in Safari,15.7.9,SFSpeechRecognizer,1576.7
+s01_A_modal_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,1016.9
+s01_A_modal_C028,Is it going to rain this evening,15.7.9,SFSpeechRecognizer,1011.8
+s01_A_modal_C029,Play something quiet while I study,15.7.9,SFSpeechRecognizer,1504.3
+s01_A_modal_C030,Delete the last voice memo,15.7.9,SFSpeechRecognizer,1024.9
+s01_A_modal_C031,What's the fastest way to Morningside Heights,15.7.9,SFSpeechRecognizer,1420.0
+s01_A_modal_C032,Add Wisteria trellis to my shopping list,15.7.9,SFSpeechRecognizer,1910.6
+s01_A_modal_C033,Tell me a joke about linguist,15.7.9,SFSpeechRecognizer,1071.0
+s01_A_modal_C034,Show me photos of Cape Cod,15.7.9,SFSpeechRecognizer,1292.9
+s01_A_modal_C035,How many days until September,15.7.9,SFSpeechRecognizer,1128.0
+s01_A_modal_C036,Turn on do not disturb until,15.7.9,SFSpeechRecognizer,1058.9
+s01_A_modal_C037,Where is the nearest pharmacy,15.7.9,SFSpeechRecognizer,1066.5
+s01_A_modal_C038,Email the lab about the annotation deadline,15.7.9,SFSpeechRecognizer,1698.7
+s01_A_modal_C039,What is my agenda this morning,15.7.9,SFSpeechRecognizer,835.8
+s01_A_modal_C040,Play White Noise for 30,15.7.9,SFSpeechRecognizer,953.2
+s01_A_modal_D001,The old bridge ground under the weight of the truck,15.7.9,SFSpeechRecognizer,1408.3
+s01_A_modal_D002,She poured the vinegar into a shallow glass dish,15.7.9,SFSpeechRecognizer,1458.5
+s01_A_modal_D003,Seven zebras wandered across the dusty road,15.7.9,SFSpeechRecognizer,2515.0
+s01_A_modal_D004,My grandmother kept her symbols in a wooden,15.7.9,SFSpeechRecognizer,1900.0
+s01_A_modal_D005,The judge asked for silence in the crowded,15.7.9,SFSpeechRecognizer,1731.9
+s01_A_modal_D006,Thick fog settled over the harbor before Dawn,15.7.9,SFSpeechRecognizer,1564.0
+s01_A_modal_D007,He measured the flower twice and still got it wrong,15.7.9,SFSpeechRecognizer,1464.6
+s01_A_modal_D008,Purple thistles grew along the railway embankment,15.7.9,SFSpeechRecognizer,1728.6
+s01_A_modal_D009,The choir rehearse the same passage 11 times,15.7.9,SFSpeechRecognizer,1322.7
+s01_A_modal_D010,A single moth circled the porch light all evening,15.7.9,SFSpeechRecognizer,1538.3
+s01_A_modal_D011,They shipped the equipment in reinforced crate,15.7.9,SFSpeechRecognizer,1420.0
+s01_A_modal_D012,The tide pulled the small boat boat towards the rock,15.7.9,SFSpeechRecognizer,1318.7
+s01_A_modal_D013,Cinnamon and clove filled the kitchen with warm,15.7.9,SFSpeechRecognizer,1262.8
+s01_A_modal_D014,Nobody remembered who had locked the back door,15.7.9,SFSpeechRecognizer,1117.7
+s01_A_modal_D015,The librarian stamped each card with quiet position,15.7.9,SFSpeechRecognizer,1256.0
+s01_A_modal_D016,Wet leaves clogged the gutter the gutter above the window,15.7.9,SFSpeechRecognizer,1548.5
+s01_A_modal_D017,I bought a secondhand bicycle for $40,15.7.9,SFSpeechRecognizer,1423.7
+s01_A_modal_D018,The mountain village looked empty in the,15.7.9,SFSpeechRecognizer,1344.5
+s01_A_modal_D019,Three sparrows fought over a crust of bread,15.7.9,SFSpeechRecognizer,1642.1
+s01_A_modal_D020,His youngest brother plays the trumpet in the marching band,15.7.9,SFSpeechRecognizer,1689.2
+s01_A_modal_D021,The recipe called for saffron which we could not,15.7.9,SFSpeechRecognizer,1420.0
+s01_A_modal_D022,Snow buried the fence posts by early January,15.7.9,SFSpeechRecognizer,1455.1
+s01_A_modal_D023,She wrote the whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1364.4
+s01_A_modal_D024,The engine coughed once and then went silent,15.7.9,SFSpeechRecognizer,1226.7
+s01_A_modal_D025,Amber light spilled across the polished floorboards,15.7.9,SFSpeechRecognizer,1298.1
+s01_A_modal_D026,We watched the storm move east across the Valley,15.7.9,SFSpeechRecognizer,1514.8
+s01_A_modal_D027,The tailor pinned the ham with practice finger,15.7.9,SFSpeechRecognizer,1333.8
+s01_A_modal_D028,Salt crusted the windows of the beach,15.7.9,SFSpeechRecognizer,1284.1
+s01_A_modal_D029,Their apartment smelled faintly of turpentine,15.7.9,SFSpeechRecognizer,1228.9
+s01_A_modal_D030,A heron stood motionless at the edge of the pond,15.7.9,SFSpeechRecognizer,1649.7
+s01_A_modal_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1497.0
+s01_A_modal_D032,He folded the newspaper and set it on the table,15.7.9,SFSpeechRecognizer,1433.6
+s01_A_modal_D033,Bright green algae covered the surface of the water,15.7.9,SFSpeechRecognizer,1305.7
+s01_A_modal_D034,The children traded sticks during the long bus ride,15.7.9,SFSpeechRecognizer,1428.7
+s01_A_modal_D035,Rain hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,1536.3
+s01_A_modal_F001,I don't really know what she was thinking honestly,15.7.9,SFSpeechRecognizer,1158.3
+s01_A_modal_F002,We ended up walking the whole way home,15.7.9,SFSpeechRecognizer,1462.9
+s01_A_modal_F003,It was one of those afternoons were nothing happened at,15.7.9,SFSpeechRecognizer,1500.9
+s01_A_modal_F004,He said he'd call back but he never really did,15.7.9,SFSpeechRecognizer,1406.0
+s01_A_modal_F005,The whole thing fell apart before anyone noticed apparently,15.7.9,SFSpeechRecognizer,1415.3
+s01_A_modal_F006,I guess that's just how it goes sometime,15.7.9,SFSpeechRecognizer,1122.9
+s01_A_modal_F007,She left the party early and nobody said anything,15.7.9,SFSpeechRecognizer,1554.1
+s01_A_modal_F008,It's not that I mind it's just kind of strange,15.7.9,SFSpeechRecognizer,1337.8
+s01_A_modal_F009,They moved out to Oregon a couple years ago,15.7.9,SFSpeechRecognizer,1343.8
+s01_A_modal_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1519.2
+s01_A_modal_F011,I've been meaning to write back for a while now,15.7.9,SFSpeechRecognizer,834.4
+s01_A_modal_F012,We sat in the car for maybe 20 minutes,15.7.9,SFSpeechRecognizer,997.0
+s01_A_modal_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,1253.3
+s01_A_modal_F014,It rained the entire week we were on island,15.7.9,SFSpeechRecognizer,1177.4
+s01_A_modal_F015,I never learned how to swim which is embarrassing,15.7.9,SFSpeechRecognizer,1445.7
+s01_A_modal_F016,That's pretty much all anyone talked about after work,15.7.9,SFSpeechRecognizer,1743.8
+s01_A_modal_F017,She kept apologizing even though it wasn't her fault,15.7.9,SFSpeechRecognizer,1444.1
+s01_A_modal_F018,The apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1263.4
+s01_A_modal_F019,I think I left my keys somewhere in the stair,15.7.9,SFSpeechRecognizer,1244.1
+s01_A_modal_F020,It turned out fine more or less in the,15.7.9,SFSpeechRecognizer,1194.4
+s01_A_modal_F021,Nobody warned us about the traffic on the way in,15.7.9,SFSpeechRecognizer,1255.4
+s01_A_modal_F022,He mentioned it once and then never brought it up again,15.7.9,SFSpeechRecognizer,1614.1
+s01_A_modal_F023,We were both too tired to argue about it anymore,15.7.9,SFSpeechRecognizer,1341.5
+s01_A_modal_F024,Fine I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1525.3
+s01_A_modal_F025,It felt like the longest week of the entire summer,15.7.9,SFSpeechRecognizer,1264.9
+s01_B_natural_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,905.5
+s01_B_natural_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,988.1
+s01_B_natural_C003,What's the weather in Newton tomorrow,15.7.9,SFSpeechRecognizer,998.1
+s01_B_natural_C004,Play the new Noah Kahan,15.7.9,SFSpeechRecognizer,953.3
+s01_B_natural_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1160.1
+s01_B_natural_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,853.5
+s01_B_natural_C007,Add oat milk to,15.7.9,SFSpeechRecognizer,582.5
+s01_B_natural_C008,Call the gelato shop on Orchard Street,15.7.9,SFSpeechRecognizer,1125.6
+s01_B_natural_C009,Turn off the bedroom lights,15.7.9,SFSpeechRecognizer,806.9
+s01_B_natural_C010,What time does the library close today,15.7.9,SFSpeechRecognizer,931.9
+s01_B_natural_C011,Navigate to Grand Central terminal,15.7.9,SFSpeechRecognizer,1071.4
+s01_B_natural_C012,Send a photo to the choir group chat,15.7.9,SFSpeechRecognizer,1109.5
+s01_B_natural_C013,Show me my calendar for next Thursday,15.7.9,SFSpeechRecognizer,1124.9
+s01_B_natural_C014,Convert 80°F to Celsius,15.7.9,SFSpeechRecognizer,1525.1
+s01_B_natural_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,855.0
+s01_B_natural_C016,What's the score of the Mets game,15.7.9,SFSpeechRecognizer,1014.9
+s01_B_natural_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,1014.6
+s01_B_natural_C018,Find a Ramen place open past midnight,15.7.9,SFSpeechRecognizer,1094.2
+s01_B_natural_C019,Read my last message from,15.7.9,SFSpeechRecognizer,1092.8
+s01_B_natural_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,928.8
+s01_B_natural_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,911.6
+s01_B_natural_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1214.5
+s01_B_natural_C023,Take a note about the pitch,15.7.9,SFSpeechRecognizer,1295.0
+s01_B_natural_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,997.1
+s01_B_natural_C025,Turn the volume down a little,15.7.9,SFSpeechRecognizer,846.0
+s01_B_natural_C026,Open the Pratt documentation in Safari,15.7.9,SFSpeechRecognizer,1166.5
+s01_B_natural_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,1094.3
+s01_B_natural_C028,Is it going to rain this evening,15.7.9,SFSpeechRecognizer,813.7
+s01_B_natural_C029,Play something quiet while study,15.7.9,SFSpeechRecognizer,1005.8
+s01_B_natural_C030,Delete the last voice memo,15.7.9,SFSpeechRecognizer,724.6
+s01_B_natural_C031,What's the fastest way to Morningside Heights,15.7.9,SFSpeechRecognizer,1246.4
+s01_B_natural_C032,Add wisteria trellis to my shopping list,15.7.9,SFSpeechRecognizer,1274.0
+s01_B_natural_C033,Tell me a joke about lings,15.7.9,SFSpeechRecognizer,919.1
+s01_B_natural_C034,Show me photos of Cape,15.7.9,SFSpeechRecognizer,827.0
+s01_B_natural_C035,How many days until September 1,15.7.9,SFSpeechRecognizer,1195.6
+s01_B_natural_C036,Turn on do not disturb until noon,15.7.9,SFSpeechRecognizer,907.2
+s01_B_natural_C037,Where is the nearest pharmacy,15.7.9,SFSpeechRecognizer,848.8
+s01_B_natural_C038,Email the lab about the annotation deadline,15.7.9,SFSpeechRecognizer,1086.4
+s01_B_natural_C039,What's on my agenda morning,15.7.9,SFSpeechRecognizer,936.5
+s01_B_natural_C040,Play White Noise for 30 minutes,15.7.9,SFSpeechRecognizer,902.2
+s01_B_natural_D001,The old bridge grown under the weight of the truck,15.7.9,SFSpeechRecognizer,1348.7
+s01_B_natural_D002,She poured the vinegar into a shallow glass dish,15.7.9,SFSpeechRecognizer,1254.3
+s01_B_natural_D003,Seven zebras wandered across the dusty road,15.7.9,SFSpeechRecognizer,1242.8
+s01_B_natural_D004,My grandmother kept her symbols in a wooden box,15.7.9,SFSpeechRecognizer,1396.1
+s01_B_natural_D005,The judge asked for silence in the crowded room,15.7.9,SFSpeechRecognizer,1357.2
+s01_B_natural_D006,Thick fog settled over the harbor before,15.7.9,SFSpeechRecognizer,1289.5
+s01_B_natural_D007,He measured the flower twice and still got it,15.7.9,SFSpeechRecognizer,1443.7
+s01_B_natural_D008,Purple thistles grew along the railway embankment,15.7.9,SFSpeechRecognizer,1405.4
+s01_B_natural_D009,The choir rehearse the same passage 11 times,15.7.9,SFSpeechRecognizer,1095.0
+s01_B_natural_D010,A single moth circled the porch light all evening,15.7.9,SFSpeechRecognizer,1212.5
+s01_B_natural_D011,They shipped the equipment in reinforced crate,15.7.9,SFSpeechRecognizer,1171.3
+s01_B_natural_D012,The tide pulled the small boat towards the,15.7.9,SFSpeechRecognizer,976.2
+s01_B_natural_D013,Cinnamon and clove filled the kitchen with warm,15.7.9,SFSpeechRecognizer,1462.0
+s01_B_natural_D014,Nobody remembered who had locked the back,15.7.9,SFSpeechRecognizer,1147.5
+s01_B_natural_D015,The librarian stamped each card with quiet pression,15.7.9,SFSpeechRecognizer,1423.4
+s01_B_natural_D016,Wet leaves clogged the gutter above the window,15.7.9,SFSpeechRecognizer,1192.3
+s01_B_natural_D017,I bought a secondhand bicycle for $40,15.7.9,SFSpeechRecognizer,1096.5
+s01_B_natural_D018,The mountain village looked empty in the photograph,15.7.9,SFSpeechRecognizer,1248.2
+s01_B_natural_D019,Three sparrows fought over across the bread,15.7.9,SFSpeechRecognizer,1148.5
+s01_B_natural_D020,His youngest brother plays trumpet in the marching band,15.7.9,SFSpeechRecognizer,1360.3
+s01_B_natural_D021,The recipe called for saffron which we could not find,15.7.9,SFSpeechRecognizer,1402.4
+s01_B_natural_D022,Snow buried defense post by early January,15.7.9,SFSpeechRecognizer,1401.0
+s01_B_natural_D023,She wrote the whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1184.2
+s01_B_natural_D024,The engine cost wants and then went silent,15.7.9,SFSpeechRecognizer,1262.7
+s01_B_natural_D025,Amber lights spilled across the polished floor,15.7.9,SFSpeechRecognizer,1513.7
+s01_B_natural_D026,We watched the storm move east across the Valley,15.7.9,SFSpeechRecognizer,1259.3
+s01_B_natural_D027,The tailor pinned the hem with practice finger,15.7.9,SFSpeechRecognizer,1217.9
+s01_B_natural_D028,Salt crusted the windows of the beach,15.7.9,SFSpeechRecognizer,1006.6
+s01_B_natural_D029,Their apartment smelled faintly of turpentine,15.7.9,SFSpeechRecognizer,1164.5
+s01_B_natural_D030,A heron stood motionless on the edge of the pond,15.7.9,SFSpeechRecognizer,1240.1
+s01_B_natural_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1159.0
+s01_B_natural_D032,He folded the newspaper and set it on the table,15.7.9,SFSpeechRecognizer,1098.4
+s01_B_natural_D033,Bright green algae covered the surface of the,15.7.9,SFSpeechRecognizer,1183.7
+s01_B_natural_D034,The children traded stickers during the long bus ride,15.7.9,SFSpeechRecognizer,1340.4
+s01_B_natural_D035,Rain hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,1388.7
+s01_B_natural_F001,I don't really know what she was thinking,15.7.9,SFSpeechRecognizer,1000.7
+s01_B_natural_F002,We ended up walking the whole way home anyway,15.7.9,SFSpeechRecognizer,1195.9
+s01_B_natural_F003,It was one of those afternoons where nothing happened at all,15.7.9,SFSpeechRecognizer,1401.0
+s01_B_natural_F004,He said he'd call back but he never really,15.7.9,SFSpeechRecognizer,1102.7
+s01_B_natural_F005,The whole thing fell apart before anyone noticed apparently,15.7.9,SFSpeechRecognizer,1412.7
+s01_B_natural_F006,I guess that's just how it goes sometime,15.7.9,SFSpeechRecognizer,1077.6
+s01_B_natural_F007,She left the party early and nobody said anything,15.7.9,SFSpeechRecognizer,1289.2
+s01_B_natural_F008,It's not that I mind it's just kind of strange,15.7.9,SFSpeechRecognizer,1269.7
+s01_B_natural_F009,They moved out to Oregon a couple years ago,15.7.9,SFSpeechRecognizer,1169.7
+s01_B_natural_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1442.2
+s01_B_natural_F011,I've been meaning to write back for a while now,15.7.9,SFSpeechRecognizer,839.5
+s01_B_natural_F012,We sat there in the car for maybe 20,15.7.9,SFSpeechRecognizer,1088.4
+s01_B_natural_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,1166.5
+s01_B_natural_F014,It rained the entire week we were on the island,15.7.9,SFSpeechRecognizer,1163.5
+s01_B_natural_F015,I never learned how to swim which is embarrassing,15.7.9,SFSpeechRecognizer,1153.8
+s01_B_natural_F016,That's pretty much all anyone talked about after work,15.7.9,SFSpeechRecognizer,1215.2
+s01_B_natural_F017,She kept apologizing even though it wasn't her,15.7.9,SFSpeechRecognizer,1140.1
+s01_B_natural_F018,The apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1270.5
+s01_B_natural_F019,I think I left my keys somewhere in the stairwell,15.7.9,SFSpeechRecognizer,1099.6
+s01_B_natural_F020,It turned out fine more or less in the end,15.7.9,SFSpeechRecognizer,1205.3
+s01_B_natural_F021,Nobody warned us about the traffic on the way in,15.7.9,SFSpeechRecognizer,1196.7
+s01_B_natural_F022,He mentioned it once and then never brought it up again,15.7.9,SFSpeechRecognizer,1243.2
+s01_B_natural_F023,It's we were both too tired to argue about it,15.7.9,SFSpeechRecognizer,1485.5
+s01_B_natural_F024,I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1189.5
+s01_B_natural_F025,It felt like the longest week of the entire summer,15.7.9,SFSpeechRecognizer,1291.0
+s01_C_creak_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,933.6
+s01_C_creak_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,984.1
+s01_C_creak_C003,What's the weather in Newton tomorrow,15.7.9,SFSpeechRecognizer,1013.0
+s01_C_creak_C004,Play the new Noah Kahan album,15.7.9,SFSpeechRecognizer,1017.4
+s01_C_creak_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1249.9
+s01_C_creak_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,964.2
+s01_C_creak_C007,Add oat milk to my grocery list,15.7.9,SFSpeechRecognizer,1230.3
+s01_C_creak_C008,Call the gelato shop in Orchard Street,15.7.9,SFSpeechRecognizer,1061.4
+s01_C_creak_C009,Turn off the bedroom lights,15.7.9,SFSpeechRecognizer,730.5
+s01_C_creak_C010,What time does the library close today,15.7.9,SFSpeechRecognizer,1340.7
+s01_C_creak_C011,Navigate to Grand Central term,15.7.9,SFSpeechRecognizer,895.1
+s01_C_creak_C012,Send a photo to the choir group chat,15.7.9,SFSpeechRecognizer,1086.3
+s01_C_creak_C013,Show me my calendar for next Thursday,15.7.9,SFSpeechRecognizer,980.5
+s01_C_creak_C014,Convert 80°F to,15.7.9,SFSpeechRecognizer,1076.9
+s01_C_creak_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,736.5
+s01_C_creak_C016,What's the score of the Mets game,15.7.9,SFSpeechRecognizer,985.5
+s01_C_creak_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,996.2
+s01_C_creak_C018,Find a Ramen place open past midnight,15.7.9,SFSpeechRecognizer,1107.7
+s01_C_creak_C019,Read my last message from Anjali,15.7.9,SFSpeechRecognizer,1001.5
+s01_C_creak_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,1108.8
+s01_C_creak_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,1011.3
+s01_C_creak_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1254.7
+s01_C_creak_C023,Take a note about the picture analysis,15.7.9,SFSpeechRecognizer,1113.6
+s01_C_creak_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,1060.0
+s01_C_creak_C025,Turn the volume down a little,15.7.9,SFSpeechRecognizer,832.7
+s01_C_creak_C026,Open the Pratt documentation in Safari,15.7.9,SFSpeechRecognizer,1212.3
+s01_C_creak_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,840.1
+s01_C_creak_C028,Is it going to rain this evening,15.7.9,SFSpeechRecognizer,1367.4
+s01_C_creak_C029,Play something quiet while I study,15.7.9,SFSpeechRecognizer,1094.9
+s01_C_creak_C030,Delete the last voice memo,15.7.9,SFSpeechRecognizer,975.4
+s01_C_creak_C031,What's the fastest way to Morningside,15.7.9,SFSpeechRecognizer,1231.9
+s01_C_creak_C032,Add Wisteria trellis to my shopping list,15.7.9,SFSpeechRecognizer,1248.0
+s01_C_creak_C033,Tell me a joke about linguist,15.7.9,SFSpeechRecognizer,1422.5
+s01_C_creak_C034,Show me photos from Cape,15.7.9,SFSpeechRecognizer,905.5
+s01_C_creak_C035,How many days until September,15.7.9,SFSpeechRecognizer,986.5
+s01_C_creak_C036,Turn on do not disturb until noon,15.7.9,SFSpeechRecognizer,1091.3
+s01_C_creak_C037,Where is the nearest pharmacy,15.7.9,SFSpeechRecognizer,941.7
+s01_C_creak_C038,Email the lab about the annotation deadline,15.7.9,SFSpeechRecognizer,1218.8
+s01_C_creak_C039,What's on my agenda this morning,15.7.9,SFSpeechRecognizer,973.7
+s01_C_creak_C040,Play White Noise for 30 minutes,15.7.9,SFSpeechRecognizer,1066.0
+s01_C_creak_D001,Up the old Bridge ground under the weight of the truck,15.7.9,SFSpeechRecognizer,1415.7
+s01_C_creak_D002,She poured the vinegar into a shallow glass dish,15.7.9,SFSpeechRecognizer,1696.2
+s01_C_creak_D003,Seven zebras wandered across the dusty road,15.7.9,SFSpeechRecognizer,2551.6
+s01_C_creak_D004,My grandmother kept her thimbles in a wooden,15.7.9,SFSpeechRecognizer,1808.8
+s01_C_creak_D005,The judge asked for silence in the crowded room,15.7.9,SFSpeechRecognizer,1880.7
+s01_C_creak_D006,Thick fog settled over the harbor before dog,15.7.9,SFSpeechRecognizer,2145.4
+s01_C_creak_D007,He measured the flower twice and still got it,15.7.9,SFSpeechRecognizer,1871.0
+s01_C_creak_D008,Purple thistles grow along the railway and bang bang,15.7.9,SFSpeechRecognizer,2322.2
+s01_C_creak_D009,The choir rehearsed with the same passage 11 time,15.7.9,SFSpeechRecognizer,1813.2
+s01_C_creak_D010,A single moth circle on the porch light all evening,15.7.9,SFSpeechRecognizer,2623.0
+s01_C_creak_D011,They shipped the equipment and reinforced crate,15.7.9,SFSpeechRecognizer,1925.6
+s01_C_creak_D012,The tide pulled the small boat towards the rocks,15.7.9,SFSpeechRecognizer,1401.5
+s01_C_creak_D013,Cinnamon and clove filled the kitchen with warm,15.7.9,SFSpeechRecognizer,1503.9
+s01_C_creak_D014,Nobody remembered who had locked the back doors,15.7.9,SFSpeechRecognizer,1771.1
+s01_C_creak_D015,The library and stamped each card with quiet decision,15.7.9,SFSpeechRecognizer,1910.7
+s01_C_creak_D016,Wet leaves clogged the gutter above the window,15.7.9,SFSpeechRecognizer,1644.0
+s01_C_creak_D017,I brought a second hand bicycle for $40,15.7.9,SFSpeechRecognizer,1760.7
+s01_C_creak_D018,The mountain village looked empty in the photograph,15.7.9,SFSpeechRecognizer,1684.6
+s01_C_creak_D019,Three sparrows fought over a crust of bread,15.7.9,SFSpeechRecognizer,2144.4
+s01_C_creak_D020,Oh his youngest brother plays trumpet in the marching band,15.7.9,SFSpeechRecognizer,2176.7
+s01_C_creak_D021,The recipe calls for saffron which we could not find,15.7.9,SFSpeechRecognizer,1668.2
+s01_C_creak_D022,Snow buried the fence posts by early January,15.7.9,SFSpeechRecognizer,1855.5
+s01_C_creak_D023,She wrote the whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1719.4
+s01_C_creak_D024,The engine called once and then went silent,15.7.9,SFSpeechRecognizer,1503.0
+s01_C_creak_D025,Amber light spilled across the polished floorboard,15.7.9,SFSpeechRecognizer,1511.6
+s01_C_creak_D026,We watch the storm move east across the Valley,15.7.9,SFSpeechRecognizer,1591.6
+s01_C_creak_D027,The dealer pin that with practice finger,15.7.9,SFSpeechRecognizer,2379.5
+s01_C_creak_D028,Salt crusted the windows of the beach house,15.7.9,SFSpeechRecognizer,1332.7
+s01_C_creak_D029,Their apartment smelled faintly of turpentine,15.7.9,SFSpeechRecognizer,1418.3
+s01_C_creak_D030,I had stood motionless at the edge of the Pond,15.7.9,SFSpeechRecognizer,1871.4
+s01_C_creak_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1774.7
+s01_C_creak_D032,He folded the newspapers and set it on the table,15.7.9,SFSpeechRecognizer,1508.8
+s01_C_creak_D033,Bright green algae cover the surface of the water,15.7.9,SFSpeechRecognizer,1320.2
+s01_C_creak_D034,The children traded stickers during the long,15.7.9,SFSpeechRecognizer,1370.2
+s01_C_creak_D035,Yes rain hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,2037.7
+s01_C_creak_F001,I don't know what she was thinking honestly,15.7.9,SFSpeechRecognizer,1418.6
+s01_C_creak_F002,We ended up walking the whole way home,15.7.9,SFSpeechRecognizer,1268.6
+s01_C_creak_F003,It was one of those afternoons were nothing happens at all,15.7.9,SFSpeechRecognizer,1821.9
+s01_C_creak_F004,He said he'd call back but he never really did,15.7.9,SFSpeechRecognizer,1380.9
+s01_C_creak_F005,The whole thing fell apart before anyone noticed it,15.7.9,SFSpeechRecognizer,1510.1
+s01_C_creak_F006,Yes I guess that's just how it goes,15.7.9,SFSpeechRecognizer,1308.9
+s01_C_creak_F007,Word she left the party early and nobody said,15.7.9,SFSpeechRecognizer,1599.1
+s01_C_creak_F008,It's not that I mind it's just kind of strange,15.7.9,SFSpeechRecognizer,1354.8
+s01_C_creak_F009,They moved out to Oregon a couple years ago,15.7.9,SFSpeechRecognizer,1474.6
+s01_C_creak_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1329.1
+s01_C_creak_F011,I've been meaning to write back for a while now,15.7.9,SFSpeechRecognizer,1008.7
+s01_C_creak_F012,We sat in the car for maybe 20 minutes,15.7.9,SFSpeechRecognizer,1152.3
+s01_C_creak_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,1535.6
+s01_C_creak_F014,It rained the entire week we were on the Island,15.7.9,SFSpeechRecognizer,1436.0
+s01_C_creak_F015,I never learned how to swim which is embarrassing,15.7.9,SFSpeechRecognizer,1340.4
+s01_C_creak_F016,Oh that's pretty much all anyone talked about after,15.7.9,SFSpeechRecognizer,1490.7
+s01_C_creak_F017,She kept apologizing even though it wasn't her,15.7.9,SFSpeechRecognizer,1430.0
+s01_C_creak_F018,Oh the apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1485.3
+s01_C_creak_F019,I think I left my keys somewhere in the stairwell,15.7.9,SFSpeechRecognizer,1602.2
+s01_C_creak_F020,It turned out fine more or less in the end,15.7.9,SFSpeechRecognizer,1621.7
+s01_C_creak_F021,Nobody warned us about the traffic on the way in,15.7.9,SFSpeechRecognizer,1429.9
+s01_C_creak_F022,He mentioned it once and then never brought it up again,15.7.9,SFSpeechRecognizer,1626.9
+s01_C_creak_F023,We were both too tired to argue about it anymore,15.7.9,SFSpeechRecognizer,1591.9
+s01_C_creak_F024,I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1357.9
+s01_C_creak_F025,It felt like the longest week of the entire,15.7.9,SFSpeechRecognizer,1224.0
+s02_A_modal_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,1017.6
+s02_A_modal_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,995.1
+s02_A_modal_C003,What's the weather in Newton tomorrow,15.7.9,SFSpeechRecognizer,952.0
+s02_A_modal_C004,Play the new Noah Kahan album,15.7.9,SFSpeechRecognizer,993.5
+s02_A_modal_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1031.4
+s02_A_modal_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,896.8
+s02_A_modal_C007,Add oat milk to my grocery list,15.7.9,SFSpeechRecognizer,867.3
+s02_A_modal_C008,Call the gelato shop on Orchard Street,15.7.9,SFSpeechRecognizer,1178.6
+s02_A_modal_C009,Turn off the bedroom lights,15.7.9,SFSpeechRecognizer,711.9
+s02_A_modal_C010,What time does the library close today,15.7.9,SFSpeechRecognizer,1063.4
+s02_A_modal_C011,Navigate to Grand Central Termin,15.7.9,SFSpeechRecognizer,988.3
+s02_A_modal_C012,Send the send a photo to the choir group chat,15.7.9,SFSpeechRecognizer,1687.6
+s02_A_modal_C013,Show me my calendar for next Thursday,15.7.9,SFSpeechRecognizer,1100.0
+s02_A_modal_C014,Convert 80°F to Celsius,15.7.9,SFSpeechRecognizer,1132.1
+s02_A_modal_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,974.0
+s02_A_modal_C016,What's the score of the Mets game,15.7.9,SFSpeechRecognizer,941.0
+s02_A_modal_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,1240.9
+s02_A_modal_C018,Find a Ramen place open past,15.7.9,SFSpeechRecognizer,927.7
+s02_A_modal_C019,Read my last message from Anjali,15.7.9,SFSpeechRecognizer,994.9
+s02_A_modal_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,972.8
+s02_A_modal_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,952.9
+s02_A_modal_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1012.1
+s02_A_modal_C023,Take a note about the pitch analysis,15.7.9,SFSpeechRecognizer,1141.1
+s02_A_modal_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,997.3
+s02_A_modal_C025,Turn the volume down a bit,15.7.9,SFSpeechRecognizer,921.1
+s02_A_modal_C026,Open the Pratt documentation in Safari,15.7.9,SFSpeechRecognizer,1062.3
+s02_A_modal_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,1320.1
+s02_A_modal_C028,Is it going to rain this evening,15.7.9,SFSpeechRecognizer,1107.8
+s02_A_modal_C029,Play something quiet while I study,15.7.9,SFSpeechRecognizer,940.2
+s02_A_modal_C030,Delete that last voice memo,15.7.9,SFSpeechRecognizer,804.7
+s02_A_modal_C031,What's the fastest way to Morningside Heights,15.7.9,SFSpeechRecognizer,1364.3
+s02_A_modal_C032,I was cereal trolls to my shopping list,15.7.9,SFSpeechRecognizer,2538.3
+s02_A_modal_C033,Tell me a joke about linguist,15.7.9,SFSpeechRecognizer,1215.9
+s02_A_modal_C034,Show me photos from Cape Cod,15.7.9,SFSpeechRecognizer,958.9
+s02_A_modal_C035,How many days until September,15.7.9,SFSpeechRecognizer,1051.7
+s02_A_modal_C036,Turn on do not disturb until noon,15.7.9,SFSpeechRecognizer,1088.0
+s02_A_modal_C037,What is the nearest pharmacy,15.7.9,SFSpeechRecognizer,1052.6
+s02_A_modal_C038,Email the lab about the annotation dead,15.7.9,SFSpeechRecognizer,1598.4
+s02_A_modal_C039,What's my agenda this morning,15.7.9,SFSpeechRecognizer,780.1
+s02_A_modal_C040,Play White Noise for 30 minutes,15.7.9,SFSpeechRecognizer,896.3
+s02_A_modal_D001,The old Bridge ground under the weight of the truck,15.7.9,SFSpeechRecognizer,1068.2
+s02_A_modal_D002,She poured the vinegar into a shallow glass dish,15.7.9,SFSpeechRecognizer,1387.0
+s02_A_modal_D003,Seven zebras wandered across the dusty road,15.7.9,SFSpeechRecognizer,1144.9
+s02_A_modal_D004,My grandmother kept her symbols in a wooden box,15.7.9,SFSpeechRecognizer,1234.8
+s02_A_modal_D005,The judge asked for silence in the crowded room,15.7.9,SFSpeechRecognizer,1317.2
+s02_A_modal_D006,Thick fog settled over the harbor before Dawn,15.7.9,SFSpeechRecognizer,1114.6
+s02_A_modal_D007,He measured the flower twice and got it wrong,15.7.9,SFSpeechRecognizer,1281.2
+s02_A_modal_D008,Purple thistles grew along the railway embankment,15.7.9,SFSpeechRecognizer,1326.9
+s02_A_modal_D009,The choir rehearse the same passage 11 times,15.7.9,SFSpeechRecognizer,1298.3
+s02_A_modal_D010,A single moth circled the porch light all evening,15.7.9,SFSpeechRecognizer,1359.9
+s02_A_modal_D011,They ship the equipment and reinforced,15.7.9,SFSpeechRecognizer,1046.4
+s02_A_modal_D012,The tide pulled the small boat towards the rocks,15.7.9,SFSpeechRecognizer,1490.4
+s02_A_modal_D013,Cinnamon and cloves filled the kitchen with warmth,15.7.9,SFSpeechRecognizer,1258.7
+s02_A_modal_D014,Nobody remembered who had locked the back door,15.7.9,SFSpeechRecognizer,1237.8
+s02_A_modal_D015,The librarian stamped each card with quiet,15.7.9,SFSpeechRecognizer,1322.3
+s02_A_modal_D016,Wet leaves clogged the gutter above the window,15.7.9,SFSpeechRecognizer,1063.8
+s02_A_modal_D017,I bought a secondhand bicycle for $40,15.7.9,SFSpeechRecognizer,1268.8
+s02_A_modal_D018,The Mountain Village looked empty in the photograph,15.7.9,SFSpeechRecognizer,1229.4
+s02_A_modal_D019,Three sparrows fought over a crust of bread,15.7.9,SFSpeechRecognizer,1177.6
+s02_A_modal_D020,His youngest brother plays the trumpet in the marching band,15.7.9,SFSpeechRecognizer,1339.5
+s02_A_modal_D021,The recipe called for saffron which we could not find,15.7.9,SFSpeechRecognizer,1314.8
+s02_A_modal_D022,Snowberry defense post by early January,15.7.9,SFSpeechRecognizer,1465.5
+s02_A_modal_D023,She wrote a whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1047.9
+s02_A_modal_D024,The engine coughed once and then went silent,15.7.9,SFSpeechRecognizer,1225.1
+s02_A_modal_D025,Amber lights spilled across the polish floorboards,15.7.9,SFSpeechRecognizer,1289.8
+s02_A_modal_D026,We watch the store moved east across the valley,15.7.9,SFSpeechRecognizer,1453.3
+s02_A_modal_D027,The tailor pin to the hem with practice fingers,15.7.9,SFSpeechRecognizer,1266.1
+s02_A_modal_D028,Salt crusted the windows at the beach house,15.7.9,SFSpeechRecognizer,1203.5
+s02_A_modal_D029,Their apartment smelled faintly of turpentine,15.7.9,SFSpeechRecognizer,921.7
+s02_A_modal_D030,A heron stood motionless at the edge of the pond,15.7.9,SFSpeechRecognizer,1254.3
+s02_A_modal_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1184.0
+s02_A_modal_D032,He folded the newspaper and set it on the table,15.7.9,SFSpeechRecognizer,1214.8
+s02_A_modal_D033,Bright green algae cover the surface of the water,15.7.9,SFSpeechRecognizer,1374.1
+s02_A_modal_D034,The children traded stickers during the long bus ride,15.7.9,SFSpeechRecognizer,1180.7
+s02_A_modal_D035,Rain hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,1184.6
+s02_A_modal_F001,I don't really know what she was thinking honestly,15.7.9,SFSpeechRecognizer,972.9
+s02_A_modal_F002,We ended up walking the whole way home anyway,15.7.9,SFSpeechRecognizer,1276.9
+s02_A_modal_F003,It was one of those afternoons were nothing happened at all,15.7.9,SFSpeechRecognizer,1300.9
+s02_A_modal_F004,He said he'd call back but he never really did,15.7.9,SFSpeechRecognizer,1244.2
+s02_A_modal_F005,The whole thing fell apart before anyone noticed apparently,15.7.9,SFSpeechRecognizer,1440.0
+s02_A_modal_F006,I guess that's just how it goes sometimes,15.7.9,SFSpeechRecognizer,1076.5
+s02_A_modal_F007,She left the party early and nobody said anything,15.7.9,SFSpeechRecognizer,1420.7
+s02_A_modal_F008,It's not that I might it's just kind of strange,15.7.9,SFSpeechRecognizer,934.1
+s02_A_modal_F009,They moved out to Oregon a couple years,15.7.9,SFSpeechRecognizer,1085.4
+s02_A_modal_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1240.7
+s02_A_modal_F011,I've been meaning to write back for a while now,15.7.9,SFSpeechRecognizer,826.8
+s02_A_modal_F012,We sat there in the car for maybe 20 minutes,15.7.9,SFSpeechRecognizer,1003.2
+s02_A_modal_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,914.2
+s02_A_modal_F014,It rained the entire week we were on the island,15.7.9,SFSpeechRecognizer,1163.8
+s02_A_modal_F015,I never learned how to swim which is embarrassing,15.7.9,SFSpeechRecognizer,1212.7
+s02_A_modal_F016,That's pretty much all anyone talked about afterwards,15.7.9,SFSpeechRecognizer,1189.9
+s02_A_modal_F017,She kept apologizing even though it wasn't her fault,15.7.9,SFSpeechRecognizer,1274.3
+s02_A_modal_F018,The apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1279.5
+s02_A_modal_F019,I think I left my keys somewhere in the stairwell,15.7.9,SFSpeechRecognizer,1190.1
+s02_A_modal_F020,It turned out fine more or less in the end,15.7.9,SFSpeechRecognizer,1151.5
+s02_A_modal_F021,Nobody warned us about the traffic on the way,15.7.9,SFSpeechRecognizer,1029.6
+s02_A_modal_F022,He mentioned it once and then never brought it up again,15.7.9,SFSpeechRecognizer,1169.9
+s02_A_modal_F023,We were both too tired to argue about it anymore,15.7.9,SFSpeechRecognizer,1159.3
+s02_A_modal_F024,I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1264.3
+s02_A_modal_F025,It felt like the longest week of my entire summer,15.7.9,SFSpeechRecognizer,1211.2
+s02_B_natural_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,828.4
+s02_B_natural_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,844.2
+s02_B_natural_C003,What's the weather in Newton,15.7.9,SFSpeechRecognizer,834.4
+s02_B_natural_C004,Play the new Noah Kahan,15.7.9,SFSpeechRecognizer,853.0
+s02_B_natural_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1344.2
+s02_B_natural_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,913.1
+s02_B_natural_C007,Add oat milk to my grocery list,15.7.9,SFSpeechRecognizer,1101.5
+s02_B_natural_C008,Call the gelato shop in Orchard Street,15.7.9,SFSpeechRecognizer,1032.5
+s02_B_natural_C009,Turn off the bedroom light,15.7.9,SFSpeechRecognizer,741.3
+s02_B_natural_C010,What time does the library close,15.7.9,SFSpeechRecognizer,903.6
+s02_B_natural_C011,Navigate to Grand Central term,15.7.9,SFSpeechRecognizer,899.6
+s02_B_natural_C012,Send a photo to the choir group,15.7.9,SFSpeechRecognizer,816.4
+s02_B_natural_C013,Show me my calendar for next Thursday,15.7.9,SFSpeechRecognizer,995.5
+s02_B_natural_C014,Convert 80°F to Celsius,15.7.9,SFSpeechRecognizer,1009.5
+s02_B_natural_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,752.7
+s02_B_natural_C016,What's the score of the Mets,15.7.9,SFSpeechRecognizer,757.7
+s02_B_natural_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,904.1
+s02_B_natural_C018,Find a Ramen place open past,15.7.9,SFSpeechRecognizer,1108.3
+s02_B_natural_C019,Read my last message from,15.7.9,SFSpeechRecognizer,898.0
+s02_B_natural_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,932.7
+s02_B_natural_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,737.7
+s02_B_natural_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1017.1
+s02_B_natural_C023,Take a note about the picture,15.7.9,SFSpeechRecognizer,940.2
+s02_B_natural_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,820.0
+s02_B_natural_C025,Turn the volume down a little,15.7.9,SFSpeechRecognizer,829.4
+s02_B_natural_C026,Open the Pratt documentation in Safari,15.7.9,SFSpeechRecognizer,1045.4
+s02_B_natural_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,1080.8
+s02_B_natural_C028,Is it gonna rain this evening,15.7.9,SFSpeechRecognizer,556.0
+s02_B_natural_C029,Play something quiet while I,15.7.9,SFSpeechRecognizer,935.9
+s02_B_natural_C030,Delete the last voice memo,15.7.9,SFSpeechRecognizer,759.8
+s02_B_natural_C031,What's the fastest way to Morningside Heights,15.7.9,SFSpeechRecognizer,1110.6
+s02_B_natural_C032,Add Wisteria trellis to my shopping list,15.7.9,SFSpeechRecognizer,1422.9
+s02_B_natural_C033,Tell me a joke about linguist,15.7.9,SFSpeechRecognizer,862.8
+s02_B_natural_C034,Show me photos from Cape,15.7.9,SFSpeechRecognizer,810.7
+s02_B_natural_C035,How many days until September,15.7.9,SFSpeechRecognizer,1029.7
+s02_B_natural_C036,Turn on do not disturb until noon,15.7.9,SFSpeechRecognizer,967.6
+s02_B_natural_C037,Where is the nearest pharmacy,15.7.9,SFSpeechRecognizer,837.0
+s02_B_natural_C038,Email the lab about the annotation deadline,15.7.9,SFSpeechRecognizer,1383.9
+s02_B_natural_C039,What's on my agenda this morning,15.7.9,SFSpeechRecognizer,817.1
+s02_B_natural_C040,Play White Noise for 30 minutes,15.7.9,SFSpeechRecognizer,916.2
+s02_B_natural_D001,The old bridge grown under the weight of the truck,15.7.9,SFSpeechRecognizer,1306.7
+s02_B_natural_D002,She poured the vinegar into a shallow glass dish,15.7.9,SFSpeechRecognizer,1154.5
+s02_B_natural_D003,Seven zebras wandered across the dusty road,15.7.9,SFSpeechRecognizer,1150.1
+s02_B_natural_D004,My grandmother kept her symbols in a wooden box,15.7.9,SFSpeechRecognizer,1197.3
+s02_B_natural_D005,The judge asked for silence in the crowd group,15.7.9,SFSpeechRecognizer,1176.6
+s02_B_natural_D006,Thick fog settled over the harbor before,15.7.9,SFSpeechRecognizer,1106.5
+s02_B_natural_D007,He measured the flower twice and still got it wrong,15.7.9,SFSpeechRecognizer,1186.3
+s02_B_natural_D008,Purple thistles grew along the railway in basement,15.7.9,SFSpeechRecognizer,1521.1
+s02_B_natural_D009,The choir rehearse the same passage 11 times,15.7.9,SFSpeechRecognizer,1236.6
+s02_B_natural_D010,A single moth circled the porch light all evening,15.7.9,SFSpeechRecognizer,1354.2
+s02_B_natural_D011,They shipped the equipment and reinforced crate,15.7.9,SFSpeechRecognizer,1236.7
+s02_B_natural_D012,The tide pulled the small boat towards the rock,15.7.9,SFSpeechRecognizer,1167.0
+s02_B_natural_D013,Cinnamon enclose filled the kitchen with,15.7.9,SFSpeechRecognizer,1252.7
+s02_B_natural_D014,Nobody remembered who had locked the back door,15.7.9,SFSpeechRecognizer,1093.7
+s02_B_natural_D015,The librarian stamped each card with quiet position,15.7.9,SFSpeechRecognizer,1490.1
+s02_B_natural_D016,Wet leaves clogged the gutter above the window,15.7.9,SFSpeechRecognizer,1125.1
+s02_B_natural_D017,I bought a secondhand bicycle for $40,15.7.9,SFSpeechRecognizer,893.4
+s02_B_natural_D018,The mountain village looked empty in the,15.7.9,SFSpeechRecognizer,1218.0
+s02_B_natural_D019,Three sparrows fought over across the bread,15.7.9,SFSpeechRecognizer,1241.6
+s02_B_natural_D020,His youngest brother plays trumpet in the marching band,15.7.9,SFSpeechRecognizer,1252.8
+s02_B_natural_D021,The recipe called for saffron which we could not,15.7.9,SFSpeechRecognizer,1251.4
+s02_B_natural_D022,Snow buried defense post by early January,15.7.9,SFSpeechRecognizer,1236.2
+s02_B_natural_D023,She wrote the whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1546.9
+s02_B_natural_D024,The engine cost once and then went silent,15.7.9,SFSpeechRecognizer,1189.3
+s02_B_natural_D025,Amber light spilled across the polished floors,15.7.9,SFSpeechRecognizer,1191.3
+s02_B_natural_D026,We watch the storm of East across the,15.7.9,SFSpeechRecognizer,1217.0
+s02_B_natural_D027,The tailor pinned to the hem with practice fingers,15.7.9,SFSpeechRecognizer,1398.3
+s02_B_natural_D028,Salt crusted the windows of the beach,15.7.9,SFSpeechRecognizer,988.0
+s02_B_natural_D029,Their apartment smelled faintly of Tartine,15.7.9,SFSpeechRecognizer,1142.3
+s02_B_natural_D030,A heron said motionless at the end of the edge of the pot,15.7.9,SFSpeechRecognizer,1842.3
+s02_B_natural_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1562.3
+s02_B_natural_D032,He folded the newspaper and set it on the,15.7.9,SFSpeechRecognizer,1015.0
+s02_B_natural_D033,Bright green algae covered the surface of the water,15.7.9,SFSpeechRecognizer,1256.5
+s02_B_natural_D034,The children traded stickers to the long bus,15.7.9,SFSpeechRecognizer,3247.3
+s02_B_natural_D035,Yes Ray hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,1361.9
+s02_B_natural_F001,I don't really know what she was thinking honestly,15.7.9,SFSpeechRecognizer,1416.3
+s02_B_natural_F002,We ended up walking the whole way home,15.7.9,SFSpeechRecognizer,1230.3
+s02_B_natural_F003,It was one of those afternoons were nothing happened at,15.7.9,SFSpeechRecognizer,1290.9
+s02_B_natural_F004,He said he called back but he never did,15.7.9,SFSpeechRecognizer,839.7
+s02_B_natural_F005,The whole thing fell apart before anyone noticed,15.7.9,SFSpeechRecognizer,1327.6
+s02_B_natural_F006,I guess that's just how it goes,15.7.9,SFSpeechRecognizer,884.5
+s02_B_natural_F007,She left the party early and nobody said anything,15.7.9,SFSpeechRecognizer,1295.9
+s02_B_natural_F008,It's not that I mind it's just kind of strange,15.7.9,SFSpeechRecognizer,1162.7
+s02_B_natural_F009,They moved out to Oregon a couple years ago,15.7.9,SFSpeechRecognizer,983.4
+s02_B_natural_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1397.9
+s02_B_natural_F011,I've been right back for a while now,15.7.9,SFSpeechRecognizer,862.5
+s02_B_natural_F012,We sat in the car for maybe 20 minutes,15.7.9,SFSpeechRecognizer,1259.1
+s02_B_natural_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,998.8
+s02_B_natural_F014,It rained the entire week we were on the Island,15.7.9,SFSpeechRecognizer,1279.0
+s02_B_natural_F015,I never learned how to swim which is embarrassing,15.7.9,SFSpeechRecognizer,1106.0
+s02_B_natural_F016,That's pretty much all anyone talked about,15.7.9,SFSpeechRecognizer,1003.1
+s02_B_natural_F017,She kept apologizing even though it wasn't her fault,15.7.9,SFSpeechRecognizer,1084.6
+s02_B_natural_F018,The apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1338.6
+s02_B_natural_F019,I think I left my keys somewhere in the stair,15.7.9,SFSpeechRecognizer,1048.5
+s02_B_natural_F020,It turned out fine more or less in the end,15.7.9,SFSpeechRecognizer,1268.9
+s02_B_natural_F021,Nobody warned us about the traffic on the way,15.7.9,SFSpeechRecognizer,1249.6
+s02_B_natural_F022,He mentioned it once and then never brought it up,15.7.9,SFSpeechRecognizer,1142.6
+s02_B_natural_F023,Yes we are both too tired to argue about it anymore,15.7.9,SFSpeechRecognizer,1309.8
+s02_B_natural_F024,I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1168.1
+s02_B_natural_F025,It felt like the longest week of the entire summer,15.7.9,SFSpeechRecognizer,1022.0
+s02_C_creak_C001,Set a timer for 12 minutes,15.7.9,SFSpeechRecognizer,829.6
+s02_C_creak_C002,Text Marcus that I'm running late,15.7.9,SFSpeechRecognizer,1028.5
+s02_C_creak_C003,What's the weather in Newton tomorrow,15.7.9,SFSpeechRecognizer,1064.7
+s02_C_creak_C004,Play the new Noah Kahan album,15.7.9,SFSpeechRecognizer,916.6
+s02_C_creak_C005,Remind me to email my advisor on Monday,15.7.9,SFSpeechRecognizer,1228.3
+s02_C_creak_C006,How long is the flight to Tokyo,15.7.9,SFSpeechRecognizer,1082.8
+s02_C_creak_C007,Add oat milk to my grocery list,15.7.9,SFSpeechRecognizer,1069.0
+s02_C_creak_C008,Call the gelato shop on Orchard Street,15.7.9,SFSpeechRecognizer,1108.0
+s02_C_creak_C009,Turn off the bedroom lights,15.7.9,SFSpeechRecognizer,898.5
+s02_C_creak_C010,What time does the library close today,15.7.9,SFSpeechRecognizer,1090.7
+s02_C_creak_C011,Navigate to Grand Central terminal,15.7.9,SFSpeechRecognizer,816.6
+s02_C_creak_C012,Send a photo of the choir group,15.7.9,SFSpeechRecognizer,998.6
+s02_C_creak_C013,Show me my calendar for next Thursday,15.7.9,SFSpeechRecognizer,1381.2
+s02_C_creak_C014,Convert 80°F to Celsius,15.7.9,SFSpeechRecognizer,1914.4
+s02_C_creak_C015,Skip to the next song,15.7.9,SFSpeechRecognizer,822.2
+s02_C_creak_C016,What's the score of the Mets game,15.7.9,SFSpeechRecognizer,917.3
+s02_C_creak_C017,Set an alarm for 6:45,15.7.9,SFSpeechRecognizer,892.7
+s02_C_creak_C018,Find a Ramen place open past midnight,15.7.9,SFSpeechRecognizer,1221.3
+s02_C_creak_C019,Read my last message from Angel,15.7.9,SFSpeechRecognizer,1068.9
+s02_C_creak_C020,How do you say thank you in Japanese,15.7.9,SFSpeechRecognizer,1111.7
+s02_C_creak_C021,Start a workout on my watch,15.7.9,SFSpeechRecognizer,957.8
+s02_C_creak_C022,Cancel my reminder about the dentist,15.7.9,SFSpeechRecognizer,1177.3
+s02_C_creak_C023,Take a note about the pitch analysis,15.7.9,SFSpeechRecognizer,1104.4
+s02_C_creak_C024,What is 20% of $43,15.7.9,SFSpeechRecognizer,1168.8
+s02_C_creak_C025,Turn the volume down a,15.7.9,SFSpeechRecognizer,589.2
+s02_C_creak_C026,Open the brat documentation in Safari,15.7.9,SFSpeechRecognizer,1310.8
+s02_C_creak_C027,Schedule a meeting for Friday afternoon,15.7.9,SFSpeechRecognizer,1143.2
+s02_C_creak_C028,Is it going to rain this evening,15.7.9,SFSpeechRecognizer,1103.3
+s02_C_creak_C029,Play something quiet while I study,15.7.9,SFSpeechRecognizer,1006.1
+s02_C_creak_C030,Delete the last voice memo,15.7.9,SFSpeechRecognizer,1020.1
+s02_C_creak_C031,What's the fastest way to Morningside,15.7.9,SFSpeechRecognizer,1266.0
+s02_C_creak_C032,Add Wisteria trolls to my shopping list,15.7.9,SFSpeechRecognizer,1538.0
+s02_C_creak_C033,Tell me a joke about linguist,15.7.9,SFSpeechRecognizer,912.8
+s02_C_creak_C034,Show me photos from Cape,15.7.9,SFSpeechRecognizer,993.9
+s02_C_creak_C035,How many days until September,15.7.9,SFSpeechRecognizer,970.2
+s02_C_creak_C036,Turn on do not disturb until noon,15.7.9,SFSpeechRecognizer,1066.9
+s02_C_creak_C037,Where is the nearest pharmacy,15.7.9,SFSpeechRecognizer,925.7
+s02_C_creak_C038,The lab about the annotation dead,15.7.9,SFSpeechRecognizer,1414.6
+s02_C_creak_C039,What's on my agenda this morning,15.7.9,SFSpeechRecognizer,831.8
+s02_C_creak_C040,Play White Noise for 30 minutes,15.7.9,SFSpeechRecognizer,974.1
+s02_C_creak_D001,The old bridge ground under the way to the truck,15.7.9,SFSpeechRecognizer,1361.2
+s02_C_creak_D002,She bought the vinegar into a shallow glass dip,15.7.9,SFSpeechRecognizer,1520.8
+s02_C_creak_D003,Seven zebras wanted across the dusty road,15.7.9,SFSpeechRecognizer,1325.1
+s02_C_creak_D004,My grandmother kept her thimble in a wooden box,15.7.9,SFSpeechRecognizer,1571.7
+s02_C_creak_D005,The judge asked for silence in the crowded room,15.7.9,SFSpeechRecognizer,1265.2
+s02_C_creak_D006,Thick fog settled over the harbor before dog,15.7.9,SFSpeechRecognizer,1210.4
+s02_C_creak_D007,He measured the flower twice and still got it wrong,15.7.9,SFSpeechRecognizer,1218.6
+s02_C_creak_D008,Purple thistles grew along the railway embankment,15.7.9,SFSpeechRecognizer,1455.3
+s02_C_creak_D009,The choir rehearse the same passage 11 times,15.7.9,SFSpeechRecognizer,1420.7
+s02_C_creak_D010,A single mod circled the porch light all evening,15.7.9,SFSpeechRecognizer,1562.9
+s02_C_creak_D011,They shipped the equipment and reinforced,15.7.9,SFSpeechRecognizer,1330.3
+s02_C_creak_D012,The died pulled the small boat towards the rock,15.7.9,SFSpeechRecognizer,1231.9
+s02_C_creak_D013,Cinnamon enclose filled the kitchen with warm,15.7.9,SFSpeechRecognizer,1254.7
+s02_C_creak_D014,Nobody remembered who had locked the back door,15.7.9,SFSpeechRecognizer,1337.1
+s02_C_creak_D015,The library and stamped each guard with quiet precise,15.7.9,SFSpeechRecognizer,1405.6
+s02_C_creak_D016,Wet leaves clogged the gutter above the window,15.7.9,SFSpeechRecognizer,1323.4
+s02_C_creak_D017,I bought a secondhand bicycle for $40,15.7.9,SFSpeechRecognizer,1073.4
+s02_C_creak_D018,The mountain village looked empty in the photograph,15.7.9,SFSpeechRecognizer,1206.9
+s02_C_creak_D019,Three sparrows fought over crust of,15.7.9,SFSpeechRecognizer,1200.6
+s02_C_creak_D020,His youngest brother plays trumpet in the marching band,15.7.9,SFSpeechRecognizer,1360.4
+s02_C_creak_D021,The recipe called for saffron which we could not find,15.7.9,SFSpeechRecognizer,1441.5
+s02_C_creak_D022,Snowberry the fence post by early January,15.7.9,SFSpeechRecognizer,1730.2
+s02_C_creak_D023,She wrote the whole essay on a borrowed laptop,15.7.9,SFSpeechRecognizer,1259.4
+s02_C_creak_D024,The engine cost wants and then went silent,15.7.9,SFSpeechRecognizer,1468.6
+s02_C_creak_D025,Amber light spilled across the polished floorboards,15.7.9,SFSpeechRecognizer,1352.9
+s02_C_creak_D026,We watched the store move east across the Valley,15.7.9,SFSpeechRecognizer,1367.6
+s02_C_creak_D027,The Taylor pinned the with practice finger,15.7.9,SFSpeechRecognizer,1735.3
+s02_C_creak_D028,Salt crusted the windows of the beach,15.7.9,SFSpeechRecognizer,1244.8
+s02_C_creak_D029,Their apartment smelled faintly of turpentine,15.7.9,SFSpeechRecognizer,1215.8
+s02_C_creak_D030,I instead motionless at the edge of the pond,15.7.9,SFSpeechRecognizer,1832.1
+s02_C_creak_D031,The clock in the hallway runs about four minutes fast,15.7.9,SFSpeechRecognizer,1510.9
+s02_C_creak_D032,He folded the newspaper and set it on the,15.7.9,SFSpeechRecognizer,1242.4
+s02_C_creak_D033,Bright green algae covered the surface of the water,15.7.9,SFSpeechRecognizer,1436.8
+s02_C_creak_D034,The children traded stickers during the long bus ride,15.7.9,SFSpeechRecognizer,1452.2
+s02_C_creak_D035,Rain hammered the tin roof for most of the night,15.7.9,SFSpeechRecognizer,1479.1
+s02_C_creak_F001,I don't really know what she was thinking honestly,15.7.9,SFSpeechRecognizer,1384.6
+s02_C_creak_F002,We ended up walking the whole way home,15.7.9,SFSpeechRecognizer,1251.6
+s02_C_creak_F003,It was one of those afternoons were nothing happened all,15.7.9,SFSpeechRecognizer,1532.5
+s02_C_creak_F004,He said that he called back but he never really did,15.7.9,SFSpeechRecognizer,1476.4
+s02_C_creak_F005,No thing fell apart before anyone noticed a,15.7.9,SFSpeechRecognizer,1377.9
+s02_C_creak_F006,Yes I guess that's just how it goes and,15.7.9,SFSpeechRecognizer,1031.5
+s02_C_creak_F007,She left the party early and nobody said that,15.7.9,SFSpeechRecognizer,1813.8
+s02_C_creak_F008,It's not that I mind it's just kind of strange,15.7.9,SFSpeechRecognizer,1427.1
+s02_C_creak_F009,They moved out to Oregon a couple years ago,15.7.9,SFSpeechRecognizer,1232.9
+s02_C_creak_F010,Nothing about that story adds up if you think about it,15.7.9,SFSpeechRecognizer,1423.9
+s02_C_creak_F011,I've been meaning to write back for a while now,15.7.9,SFSpeechRecognizer,987.2
+s02_C_creak_F012,We sat in the car for maybe 20 minutes,15.7.9,SFSpeechRecognizer,1070.8
+s02_C_creak_F013,He's been doing that same job for 11 years,15.7.9,SFSpeechRecognizer,1368.1
+s02_C_creak_F014,It rained the entire week we were on the island,15.7.9,SFSpeechRecognizer,1541.8
+s02_C_creak_F015,I never learned how to swim which is,15.7.9,SFSpeechRecognizer,2154.0
+s02_C_creak_F016,Oh that's pretty much all anyone talked about,15.7.9,SFSpeechRecognizer,1775.8
+s02_C_creak_F017,She kept apologizing even though it wasn't her fault,15.7.9,SFSpeechRecognizer,1693.0
+s02_C_creak_F018,The apartment was smaller than we expected obviously,15.7.9,SFSpeechRecognizer,1699.0
+s02_C_creak_F019,I think I left my keys somewhere in the stairwell,15.7.9,SFSpeechRecognizer,1678.5
+s02_C_creak_F020,It turned out fine more or less in the end,15.7.9,SFSpeechRecognizer,1943.2
+s02_C_creak_F021,Nobody warned us about the traffic on the way in,15.7.9,SFSpeechRecognizer,2272.6
+s02_C_creak_F022,He mentioned it once said they never brought it up again,15.7.9,SFSpeechRecognizer,1561.1
+s02_C_creak_F023,We were both too tired to argue about it,15.7.9,SFSpeechRecognizer,1357.0
+s02_C_creak_F024,And I've been putting that conversation off for months,15.7.9,SFSpeechRecognizer,1310.4
+s02_C_creak_F025,It felt like the longest week of the entire summer,15.7.9,SFSpeechRecognizer,1175.6
