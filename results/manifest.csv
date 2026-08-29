@@ -24,7 +24,7 @@ s01_A_modal_C022,s01,A_modal,C022,command,Cancel my reminder about the dentist.,
 s01_A_modal_C023,s01,A_modal,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_A_modal_C023.wav,2.78
 s01_A_modal_C024,s01,A_modal,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_A_modal_C024.wav,2.215
 s01_A_modal_C025,s01,A_modal,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_A_modal_C025.wav,1.53
-s01_A_modal_C026,s01,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_A_modal_C026.wav,3.12
+s01_A_modal_C026,s01,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s01_A_modal_C026.wav,3.12
 s01_A_modal_C027,s01,A_modal,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_A_modal_C027.wav,2.4
 s01_A_modal_C028,s01,A_modal,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_A_modal_C028.wav,2.32
 s01_A_modal_C029,s01,A_modal,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_A_modal_C029.wav,2.2
@@ -124,7 +124,7 @@ s01_B_natural_C022,s01,B_natural,C022,command,Cancel my reminder about the denti
 s01_B_natural_C023,s01,B_natural,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_B_natural_C023.wav,2.58
 s01_B_natural_C024,s01,B_natural,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_B_natural_C024.wav,2.36
 s01_B_natural_C025,s01,B_natural,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_B_natural_C025.wav,1.88
-s01_B_natural_C026,s01,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_B_natural_C026.wav,2.78
+s01_B_natural_C026,s01,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s01_B_natural_C026.wav,2.78
 s01_B_natural_C027,s01,B_natural,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_B_natural_C027.wav,2.58
 s01_B_natural_C028,s01,B_natural,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_B_natural_C028.wav,1.86
 s01_B_natural_C029,s01,B_natural,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_B_natural_C029.wav,2.32
@@ -224,7 +224,7 @@ s01_C_creak_C022,s01,C_creak,C022,command,Cancel my reminder about the dentist.,
 s01_C_creak_C023,s01,C_creak,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s01_C_creak_C023.wav,2.65
 s01_C_creak_C024,s01,C_creak,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s01_C_creak_C024.wav,2.55
 s01_C_creak_C025,s01,C_creak,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s01_C_creak_C025.wav,1.88
-s01_C_creak_C026,s01,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s01_C_creak_C026.wav,2.76
+s01_C_creak_C026,s01,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s01_C_creak_C026.wav,2.76
 s01_C_creak_C027,s01,C_creak,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s01_C_creak_C027.wav,1.91
 s01_C_creak_C028,s01,C_creak,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s01_C_creak_C028.wav,3.26
 s01_C_creak_C029,s01,C_creak,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s01_C_creak_C029.wav,2.66
@@ -324,7 +324,7 @@ s02_A_modal_C022,s02,A_modal,C022,command,Cancel my reminder about the dentist.,
 s02_A_modal_C023,s02,A_modal,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_A_modal_C023.wav,2.08
 s02_A_modal_C024,s02,A_modal,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_A_modal_C024.wav,2.09
 s02_A_modal_C025,s02,A_modal,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_A_modal_C025.wav,1.6
-s02_A_modal_C026,s02,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_A_modal_C026.wav,2.165
+s02_A_modal_C026,s02,A_modal,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s02_A_modal_C026.wav,2.165
 s02_A_modal_C027,s02,A_modal,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_A_modal_C027.wav,2.16
 s02_A_modal_C028,s02,A_modal,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s02_A_modal_C028.wav,1.9
 s02_A_modal_C029,s02,A_modal,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_A_modal_C029.wav,1.92
@@ -345,7 +345,7 @@ s02_A_modal_D003,s02,A_modal,D003,declarative,Seven zebras wandered across the d
 s02_A_modal_D004,s02,A_modal,D004,declarative,My grandmother kept her thimbles in a wooden box.,My grandmother kept her thimbles in a wooden box.,False,data/split/s02_A_modal_D004.wav,2.52
 s02_A_modal_D005,s02,A_modal,D005,declarative,The judge asked for silence in the crowded room.,The judge asked for silence in the crowded room.,False,data/split/s02_A_modal_D005.wav,3.19
 s02_A_modal_D006,s02,A_modal,D006,declarative,Thick fog settled over the harbor before dawn.,Thick fog settled over the harbor before dawn.,False,data/split/s02_A_modal_D006.wav,2.44
-s02_A_modal_D007,s02,A_modal,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flower twice and got it wrong.,True,data/split/s02_A_modal_D007.wav,3.01
+s02_A_modal_D007,s02,A_modal,D007,declarative,He measured the flour twice and still got it wrong.,He measured the flour twice and got it wrong.,True,data/split/s02_A_modal_D007.wav,3.01
 s02_A_modal_D008,s02,A_modal,D008,declarative,Purple thistles grew along the railway embankment.,Purple thistles grew along the railway embankment.,False,data/split/s02_A_modal_D008.wav,2.88
 s02_A_modal_D009,s02,A_modal,D009,declarative,The choir rehearsed the same passage eleven times.,The choir rehearsed the same passage eleven times.,False,data/split/s02_A_modal_D009.wav,3.17
 s02_A_modal_D010,s02,A_modal,D010,declarative,A single moth circled the porch light all evening.,A single moth circled the porch light all evening.,False,data/split/s02_A_modal_D010.wav,3.02
@@ -424,7 +424,7 @@ s02_B_natural_C022,s02,B_natural,C022,command,Cancel my reminder about the denti
 s02_B_natural_C023,s02,B_natural,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_B_natural_C023.wav,2.26
 s02_B_natural_C024,s02,B_natural,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_B_natural_C024.wav,1.98
 s02_B_natural_C025,s02,B_natural,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_B_natural_C025.wav,1.86
-s02_B_natural_C026,s02,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_B_natural_C026.wav,2.34
+s02_B_natural_C026,s02,B_natural,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s02_B_natural_C026.wav,2.34
 s02_B_natural_C027,s02,B_natural,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_B_natural_C027.wav,2.7
 s02_B_natural_C028,s02,B_natural,C028,command,Is it going to rain this evening?,Is it gonna rain this evening?,True,data/split/s02_B_natural_C028.wav,1.26
 s02_B_natural_C029,s02,B_natural,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_B_natural_C029.wav,2.22
@@ -524,7 +524,7 @@ s02_C_creak_C022,s02,C_creak,C022,command,Cancel my reminder about the dentist.,
 s02_C_creak_C023,s02,C_creak,C023,command,Take a note about the pitch analysis.,Take a note about the pitch analysis.,False,data/split/s02_C_creak_C023.wav,2.53
 s02_C_creak_C024,s02,C_creak,C024,command,What is twenty percent of forty-three dollars?,What is twenty percent of forty-three dollars?,False,data/split/s02_C_creak_C024.wav,2.81
 s02_C_creak_C025,s02,C_creak,C025,command,Turn the volume down a little.,Turn the volume down a little.,False,data/split/s02_C_creak_C025.wav,1.29
-s02_C_creak_C026,s02,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Pratt documentation in Safari.,True,data/split/s02_C_creak_C026.wav,3.08
+s02_C_creak_C026,s02,C_creak,C026,command,Open the Praat documentation in Safari.,Open the Praat documentation in Safari.,True,data/split/s02_C_creak_C026.wav,3.08
 s02_C_creak_C027,s02,C_creak,C027,command,Schedule a meeting for Friday afternoon.,Schedule a meeting for Friday afternoon.,False,data/split/s02_C_creak_C027.wav,2.83
 s02_C_creak_C028,s02,C_creak,C028,command,Is it going to rain this evening?,Is it going to rain this evening?,False,data/split/s02_C_creak_C028.wav,2.7
 s02_C_creak_C029,s02,C_creak,C029,command,Play something quiet while I study.,Play something quiet while I study.,False,data/split/s02_C_creak_C029.wav,2.4
