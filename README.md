@@ -27,6 +27,10 @@ output to `results/` (CSV) or `data/` and prints a one-line summary.
 | 8b | `08b_prepare_grids.py` | Copy each sampled TextGrid, add an empty sonorant-boundary `creak` tier, and pair blind-named grids/audio for hand annotation. |
 | 8c | `08c_compute_proportions.py` | Validate the completed hand annotation against the phone tier, compute token-weighted `hand_creak_proportion`, correlate against phonpipe. |
 | 8d | `08d_tune_thresholds.py` | Grid-search per-token creak thresholds against the hand annotation; prints (never writes) the winning config. |
+| 9 | `swift/CreakASR` | macOS command-line Swift package (not a `src/*.py` script — see `swift/README.md`). Transcribes with `SFSpeechRecognizer` (`requiresOnDeviceRecognition = true`), writes `hypotheses.csv`. |
+| 10 | `10_wer.py` | Normalizes text (case, punctuation, numeral/symbol expansion) and computes a from-scratch Levenshtein WER; joins `hypotheses.csv` to `manifest.csv`, writes `scored.csv` against both `verbatim_text` and `script_text`. |
+| 10b | `10b_whisper_baseline.py` | Same normalizer/scorer (imported from `10_wer.py`), run against faster-whisper `large-v3` instead of the on-device recognizer — VAD filtering explicitly off, since it would systematically discard creak. Writes `wer_whisper.csv`. |
+| 11 | `11_analysis.py` | Joins `acoustics_joined.csv`/`scored.csv`/`wer_whisper.csv`; mixed-effects models of WER on acoustic predictors, plus the secondary analyses below. Print-only; writes `figure1.png`. |
 
 `manifest.csv`/`acoustics_joined.csv` are keyed on `utt_id` throughout —
 see CLAUDE.md's non-negotiables. `config/thresholds.yaml` is Stage 8d's
@@ -93,6 +97,129 @@ call and the full path under `conda run -n phonpipe python`.)
   on flagged/sign-changed rows; current results in `results/acoustics_joined.csv`
   are v3 (post-`f74fe22`). `results/version_diff_signs.csv` compares v3
   against v1 directly (`06d_version_diff.py --v1 acoustics_joined_v1.csv`).
+
+## Results
+
+From `11_analysis.py` (print-only; run it to regenerate these numbers).
+
+### Excluded predictor
+
+**`h1_h2_db_mean` is excluded from every model below.** It failed five
+independent checks over this project's history: a sign inversion relative
+to the physiologically expected direction; 63 `shr_median>0.45 =>
+h1_h2<=+2dB` violations (see Limitations below); degenerate Stage 8d
+token-level threshold tuning (F1 equal to the trivial "always predict
+creaky" baseline); a 63% per-token NaN rate from `measure_tilt()` failing
+on short spans (Stage 8d); and the same `shr_median>0.45` pattern
+recurring independently in that per-token investigation.
+
+### Pre-modeling check: roomtone RMS by session
+
+| session | mean RMS | n |
+|---|---|---|
+| s01 | 0.000909 | 3 |
+| s02 | 0.001192 | 3 |
+
+27.0% symmetric difference (t=-1.64, p=0.176, n=3/session — very low
+power). **Flagged** at the 15% threshold used elsewhere in this project
+(`07_calibration.py`). Intensity is not directly comparable across
+sessions on this evidence; the model's random intercept by session
+absorbs a session-level mean shift in the *outcome* but does not fully
+resolve this for interpreting the intensity *coefficient* itself.
+
+### Primary model: Apple WER ~ acoustic predictors + covariates
+
+Errors-per-reference-word, mixed-effects, crossed random intercepts for
+`item_id` and `session`. Continuous predictors z-scored (coefficients are
+per-1-SD).
+
+| term | coef | std err | z | p | [0.025, 0.975] |
+|---|---|---|---|---|---|
+| Intercept | 0.0764 | 0.0079 | 9.70 | <0.0001 | [0.0610, 0.0919] |
+| f0_tracking_failed | 0.0011 | 0.0120 | 0.09 | 0.929 | [-0.0225, 0.0246] |
+| **shr_median (z)** | **0.0161** | 0.0068 | 2.36 | **0.018** | [0.0027, 0.0295] |
+| jitter_local_pct (z) | 0.0075 | 0.0071 | 1.06 | 0.292 | [-0.0064, 0.0214] |
+| intensity_db (z) | 0.0187 | 0.0039 | 4.78 | <0.0001 | [0.0110, 0.0264] |
+| speech_rate_wps (z) | -0.0114 | 0.0049 | -2.35 | 0.019 | [-0.0209, -0.0019] |
+| item_id variance | 0.5152 | 0.1065 | — | — | — |
+| session variance | 0.0000 | — | — | — | — |
+
+`shr_median` predicts WER independent of intensity, speech rate, and f0
+tracking failure — the core result. Note: session variance converged to
+the parameter-space boundary (0), and the fit raised convergence warnings
+("Maximum Likelihood optimization failed to converge", "MLE may be on the
+boundary of the parameter space"). This is a plausible, expected outcome
+given only 2 session levels, not a code defect — but it means the session
+random effect is not meaningfully estimated here, only nominally
+included. `jitter_local_pct` is not significant in this model, though it
+is in the Whisper model below.
+
+### Secondary 1: Whisper WER, same model structure
+
+| term | coef | std err | z | p |
+|---|---|---|---|---|
+| Intercept | 0.0269 | 0.0045 | 5.99 | <0.0001 |
+| f0_tracking_failed | 0.0086 | 0.0091 | 0.95 | 0.345 |
+| shr_median (z) | -0.0016 | 0.0059 | -0.27 | 0.789 |
+| **jitter_local_pct (z)** | **0.0141** | 0.0052 | 2.74 | **0.006** |
+| intensity_db (z) | 0.0053 | 0.0056 | 0.96 | 0.338 |
+| speech_rate_wps (z) | -0.0092 | 0.0036 | -2.51 | 0.012 |
+| item_id variance | 0.2637 | 0.0674 | — | — |
+
+**Coefficient pattern differs by recognizer**: `shr_median` predicts
+Apple's errors but not Whisper's; `jitter_local_pct` predicts Whisper's
+errors but not Apple's. Intensity is significant for Apple only. This
+model's fit is less stable than the primary one — repeated "Random
+effects covariance is singular" and non-convergence warnings — plausibly
+because Whisper's much lower, more zero-inflated WER leaves less variance
+for the random effects to explain; take the point estimates as
+indicative, not as precise as the primary model's.
+
+### Secondary 2: Error-type breakdown by pass × recognizer (pooled rates)
+
+| pass | recognizer | substitution | deletion | insertion |
+|---|---|---|---|---|
+| A_modal | Apple | 0.0367 | 0.0152 | 0.0101 |
+| A_modal | Whisper | 0.0076 | 0.0025 | 0.0070 |
+| B_natural | Apple | 0.0411 | 0.0329 | 0.0057 |
+| B_natural | Whisper | 0.0089 | 0.0038 | 0.0101 |
+| C_creak | Apple | 0.0517 | 0.0240 | 0.0107 |
+| C_creak | Whisper | 0.0196 | 0.0019 | 0.0177 |
+
+No evidence of a segmentation/VAD problem: deletions don't scale with
+creak severity for either recognizer — Apple's deletion rate actually
+peaks in B_natural, not C_creak, and Whisper's deletion rate is lowest in
+C_creak. What scales with creak is substitutions (both recognizers) and
+insertions (Whisper especially: 0.0070→0.0101→0.0177). That pattern
+points at an acoustic-model confusion, not lost/discarded audio.
+
+### Secondary 3: Apple WER, verbatim_text vs script_text
+
+verbatim WER = 0.0761, script WER = 0.0842, **gap = 0.0081**.
+
+### Secondary 4: Correction rate (was_corrected) by pass
+
+| pass | correction rate |
+|---|---|
+| A_modal | 0.120 |
+| B_natural | 0.085 |
+| C_creak | 0.115 |
+
+### Secondary 5: Sentence type effects within B_natural (Apple WER)
+
+| item_type | mean WER | std | n |
+|---|---|---|---|
+| command | 0.0639 | 0.0908 | 80 |
+| **declarative** | **0.1185** | 0.1267 | 70 |
+| final_fall | 0.0533 | 0.0805 | 50 |
+
+One-way ANOVA: F=7.596, **p=0.0007**. Declarative sentences are
+substantially harder within the natural-speech condition specifically.
+
+### Figure
+
+`results/figure1.png` (300 dpi): WER vs. `shr_median`, points colored by
+recognizer, OLS fit line + 95% CI band per recognizer.
 
 ## Limitations
 
