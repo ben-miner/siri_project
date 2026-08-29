@@ -105,7 +105,7 @@ s01_B_natural_C003,s01,B_natural,C003,command,What's the weather in Newton tomor
 s01_B_natural_C004,s01,B_natural,C004,command,Play the new Noah Kahan album.,Play the new Noah Kahn album.,True,data/split/s01_B_natural_C004.wav,2.22
 s01_B_natural_C005,s01,B_natural,C005,command,Remind me to email my advisor on Monday.,Remind me to email my advisor on Monday.,False,data/split/s01_B_natural_C005.wav,2.79
 s01_B_natural_C006,s01,B_natural,C006,command,How long is the flight to Tokyo?,How long is the flight to Tokyo?,False,data/split/s01_B_natural_C006.wav,1.96
-s01_B_natural_C007,s01,B_natural,C007,command,Add oat milk to my grocery list.,Add oatmilk to.,True,data/split/s01_B_natural_C007.wav,1.29
+s01_B_natural_C007,s01,B_natural,C007,command,Add oat milk to my grocery list.,Add oat milk to.,True,data/split/s01_B_natural_C007.wav,1.29
 s01_B_natural_C008,s01,B_natural,C008,command,Call the gelato shop on Orchard Street.,Call the gelato shop on Orchard Street.,False,data/split/s01_B_natural_C008.wav,2.64
 s01_B_natural_C009,s01,B_natural,C009,command,Turn off the bedroom lights.,Turn off the bedroom lights.,False,data/split/s01_B_natural_C009.wav,1.88
 s01_B_natural_C010,s01,B_natural,C010,command,What time does the library close today?,What time does the library close today?,False,data/split/s01_B_natural_C010.wav,2.07
