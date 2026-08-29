@@ -12,3 +12,4 @@ mfa_temp/
 .DS_Store
 swift/CreakASR/.build/
 swift/CreakASR/.swiftpm/
+.claude/

@@ -1,8 +1,132 @@
 # siri_project
 
-Measuring whether creaky phonation increases word error rate in Apple's
-on-device SpeechTranscriber. See `CLAUDE.md` for full project context,
-non-negotiables, and style conventions.
+Does creaky phonation increase word error rate in real ASR systems? This
+project measures it directly: one speaker reads the same 100 sentences
+under three phonation conditions (modal, natural, and deliberately creaky
+voice), across two recording sessions, and the resulting 600 utterances
+are scored against two speech recognizers — Apple's on-device
+`SFSpeechRecognizer` and OpenAI's Whisper (`large-v3`, via faster-whisper)
+— to test whether acoustic creak measures predict recognition errors
+independent of loudness and speaking rate.
+
+Single-speaker, exploratory study — not a general claim about creak and
+ASR, but a specific, carefully-instrumented test of the mechanism in one
+controlled corpus. See `CLAUDE.md` for the project's binding conventions
+and non-negotiables (join keys, no audio filtering, ever, etc.) if you're
+working on this code rather than just reading the results.
+
+## Design
+
+- **Speaker**: one speaker (the repository author), recorded twice
+  (`s01`, `s02`) on separate days.
+- **Stimuli**: 100 sentences (`stimuli/items.csv`), built deterministically
+  by `03_build_stimuli.py`: 40 commands (`C001`-`C040`, Siri-style voice
+  commands), 35 declaratives (`D001`-`D035`), and 25 sentences with a
+  final falling intonation contour (`F001`-`F025`).
+- **Conditions** (`pass` in every results file): each of the 100 sentences
+  is read once under each condition, in three deterministically-shuffled
+  read orders (`stimuli/orders.csv`) so condition isn't confounded with
+  recording order:
+  - `A_modal` — modal (baseline) voice.
+  - `B_natural` — the speaker's ordinary, natural reading style.
+  - `C_creak` — deliberately creaky phonation throughout.
+- **Total corpus**: 100 sentences × 3 conditions × 2 sessions = 600
+  utterances (`results/manifest.csv`).
+- **Reference transcripts**: every utterance has both `script_text` (what
+  was supposed to be read) and `verbatim_text` (what was actually said,
+  hand-corrected by ear against the recording — never derived from any
+  ASR output, see `CLAUDE.md`). 64 of the 600 utterances needed a
+  verbatim correction (`results/references.csv`).
+- **Recognizers compared**:
+  - Apple `SFSpeechRecognizer`, on-device
+    (`requiresOnDeviceRecognition = true`), via `swift/CreakASR` — see
+    that package's README for why `SFSpeechRecognizer` rather than the
+    newer `SpeechAnalyzer` (hardware constraint: no macOS 26 Mac
+    available for this project).
+  - Whisper `large-v3` via faster-whisper, CPU inference, VAD filtering
+    explicitly disabled (`10b_whisper_baseline.py`) — VAD would discard
+    the low-energy, aperiodic stretches that creak actually looks like
+    acoustically, which would bias the exact comparison this project is
+    testing.
+- **Acoustic measurement**: via `phonpipe` (a separate tool by the same
+  author — see Setup), MFA-aligned per utterance, plus this project's own
+  blind hand-annotation validation (Stage 8) and recording-session
+  calibration reference (Stage 7).
+
+## Setup
+
+This project depends on
+[`phonpipe`](https://github.com/ben-miner/acoustic-phonetic-master-data-extractor)
+(the author's own acoustic-measurement tool — GPL v3, embeds Praat via
+`parselmouth`) and Montreal Forced Aligner (MFA), both installed into one
+conda environment.
+
+```bash
+# 1. Clone both repos
+git clone https://github.com/ben-miner/siri_project.git
+git clone https://github.com/ben-miner/acoustic-phonetic-master-data-extractor.git
+
+# 2. Create the conda env from phonpipe's environment.yml -- this installs
+#    MFA and its conda-only dependencies ("MFA is conda-only; everything
+#    else is pip" per phonpipe's own README) and phonpipe itself.
+cd acoustic-phonetic-master-data-extractor
+conda env create -f environment.yml
+conda activate phonpipe
+
+# If `import phonpipe` doesn't work after that (environment.yml SHOULD
+# install it, but if it only installed phonpipe's dependencies):
+#   pip install -e .
+
+# 3. Download MFA's English acoustic model + dictionary
+mfa model download acoustic english_mfa
+mfa model download dictionary english_mfa
+
+# 4. Install this project's own dependencies into the same env
+cd ../siri_project
+pip install -r requirements.txt
+```
+
+Developed on Windows 11 with Python 3.11; the conda env should work
+identically on macOS/Linux for everything except Stage 9 (below).
+
+**Windows gotcha**: a bare `python.exe` invocation doesn't inherit the
+PATH/DLL setup conda's activation provides, so `06_measure.py` (the only
+script that shells out to `mfa`) has to be run via
+`conda run -n phonpipe python src\06_measure.py` — see Running scripts.
+
+**macOS only, separate toolchain**: `swift/CreakASR` (Stage 9, the
+on-device ASR measurement) is a Swift package that must be built and run
+on a Mac — see `swift/README.md` for exact commands and prerequisites.
+Everything else in this repo is pure Python (plus the one Swift package)
+and doesn't need a Mac.
+
+## Data
+
+Raw and processed audio (`data/raw/`, `data/converted/`, `data/split/`,
+`data/calibration/`) is **not included** in this repository —
+`.gitignore` excludes all `.wav`/`.m4a`/`.mp3`/`.aiff` files. What *is*
+included, and sufficient to inspect or extend the analysis without
+re-recording anything:
+
+- Every derived measurement and result: `results/*.csv` (the 600-row
+  `manifest.csv`/`acoustics_joined.csv`/`scored.csv`/`wer_whisper.csv`,
+  the 60-utterance hand-annotation files, calibration data — everything
+  `11_analysis.py`'s models actually run on) and `results/figure1.png`.
+- All 600 utterances' reference transcripts, both the intended script and
+  the hand-corrected verbatim text (`results/references.csv`,
+  `manifest.csv`).
+- The 60 hand-annotated TextGrids used to validate and tune the creak
+  detection thresholds (`data/textgrids/annotation/`).
+- The stimulus sentences and read orders (`stimuli/`), and the recording
+  session logs (`docs/`).
+- All pipeline/analysis code (`src/`, `swift/`) and its tests (`tests/`).
+
+Reproducing Stages 1-9 from scratch would need your own matching audio
+recordings (same script, comparable setup) — the pipeline is written
+generically enough that it should run on a different speaker's recordings
+of the same `stimuli/items.csv` script, but that's untested. Stages 10
+onward (scoring, analysis) run directly on the checked-in `results/`
+files with no audio required at all.
 
 ## Pipeline
 
@@ -37,11 +161,6 @@ see CLAUDE.md's non-negotiables. `config/thresholds.yaml` is Stage 8d's
 output, pasted and committed by hand per that script's print-only
 convention; see the file's own header for the frozen values and the
 negative results (H1-H2) behind them.
-
-## Environment
-
-Windows 11, Python 3.11, conda env `phonpipe` (shared with the sibling
-`../acoustic-phonetic-master-data-extractor` project).
 
 ## Running scripts
 
@@ -259,3 +378,30 @@ recognizer, OLS fit line + 95% CI band per recognizer.
   r=0.772 with phonpipe's `creak_doubling_rate` (Stage 8c,
   `results/annotation_vs_phonpipe.png`) — not from a single token's own
   span.
+
+- **Single speaker.** Every result above describes this one speaker's
+  voice and recording setup. Random intercepts by `item_id` and `session`
+  account for item- and session-level variation within that speaker's
+  data; they say nothing about how creak affects ASR accuracy for anyone
+  else.
+
+- **Session variance in the mixed models is not meaningfully estimated**
+  (see Results) — there are only 2 sessions, which is too few to
+  precisely estimate a variance component from regardless of model
+  specification.
+
+## License
+
+GPL v3 (see `LICENSE`) — required because this project's acoustic
+measurement code depends on `phonpipe`, which embeds Praat via
+`parselmouth` and is itself GPL v3.
+
+```
+siri_project: measuring creaky-phonation effects on ASR word error rate
+Copyright (C) 2026  ben-miner
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+```
